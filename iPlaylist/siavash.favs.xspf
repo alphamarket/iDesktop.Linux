@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Aadat.MP3</location>
+			<annotation>                              </annotation>
+			<duration>346292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Alaki.mp3</location>
+			<creator>09370638134_DIACO</creator>
+			<album>DIACO.67@GMAIL.COM</album>
+			<annotation>ãæÒíß ãÇÑßÊ ÊãÇÔÇ</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/09370638134_DIACO/DIACO.67%40GMAIL.COM/art.jpg</image>
+			<duration>185989</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Asal%20banoo.MP3</location>
+			<annotation>                              </annotation>
+			<duration>272578</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Baroon.MP3</location>
+			<annotation>                              </annotation>
+			<duration>282062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Booseye%20Baad%20.mp3</location>
+			<trackNum>8</trackNum>
+			<annotation>www.2kaf.com</annotation>
+			<duration>213425</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Chedardist%20.mp3</location>
+			<annotation>                              </annotation>
+			<duration>345145</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Faseleh%20.mp3</location>
+			<annotation>                              </annotation>
+			<duration>331176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Gased%20.mp3</location>
+			<annotation>                              </annotation>
+			<duration>278107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Geryeh%20Kon.mp3</location>
+			<trackNum>2</trackNum>
+			<annotation>www.2kaf.com</annotation>
+			<duration>224318</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20Ghomayshi%20-%20Baazi.mp3</location>
+			<album>Singles</album>
+			<annotation>www.uPersia.org</annotation>
+			<duration>229366</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20Ghomayshi%20-%20Deltangi.mp3</location>
+			<title>Deltangi</title>
+			<creator>Siavash Ghomayshi</creator>
+			<album>Shekoofehaye Kavir</album>
+			<trackNum>3</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Siavash%20Ghomayshi/Shekoofehaye%20Kavir/art.jpg</image>
+			<duration>357307</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20Ghomayshi%20-%20Tardid%20%5B320%5D.mp3</location>
+			<title>Tardid (Original)</title>
+			<creator>Siavash Ghomayshi</creator>
+			<album>[wWw.MyFaza2Music.com]</album>
+			<annotation>[wWw.MyFaza2Music.com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Siavash%20Ghomayshi/%5BwWw.MyFaza2Music.com%5D/art.jpg</image>
+			<duration>232971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20Ghomeyshi%20-%20Kalaafeh%20%5B%20F%20a%20r%20s%20%20K%20i%20d%20s%5D.mp3</location>
+			<duration>221376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Jazireh.mp3</location>
+			<annotation>                              </annotation>
+			<duration>281346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Magemishe.MP3</location>
+			<annotation>                              </annotation>
+			<duration>282156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Man%20braye%20to%20mikhoonam.MP3</location>
+			<annotation>                              </annotation>
+			<duration>314190</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Mosafer.MP3</location>
+			<duration>431586</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Negab%20.mp3</location>
+			<annotation>                              </annotation>
+			<duration>295479</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Panjereh.mp3</location>
+			<trackNum>3</trackNum>
+			<annotation>www.2kaf.com</annotation>
+			<duration>197935</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Rouze%20Milad.mp3</location>
+			<annotation>                              </annotation>
+			<duration>330613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20To%20Baroon%20Keh%20Rafty.mp3</location>
+			<creator>Roman_Mp3@Yahoo.Com</creator>
+			<album>Bivafa_Va_Parsa20@Yahoo.Com</album>
+			<annotation>Exclosive Bivafa Va Man20 &amp; Roman Mp3</annotation>
+			<duration>234326</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Yaade%20Man%20Bash.mp3</location>
+			<trackNum>7</trackNum>
+			<annotation>www.persianhub.com</annotation>
+			<duration>223038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Zendegy.mp3</location>
+			<duration>346566</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+	</extension>
+</playlist>

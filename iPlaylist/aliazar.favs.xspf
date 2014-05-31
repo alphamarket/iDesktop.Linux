@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Ali%20Azar%20-%20Ham%20Marg.mp3</location>
+			<creator>( www.PressSong.IR  )</creator>
+			<album>( www.PressSong.IR  )</album>
+			<trackNum>1</trackNum>
+			<annotation>( www.PressSong.IR  )</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/%28%20www.PressSong.IR%20%20%29/%28%20www.PressSong.IR%20%20%29/art.jpg</image>
+			<duration>589115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Ali%20Azar_Madian.mp3</location>
+			<annotation>                              </annotation>
+			<duration>258616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Eshgh.mp3</location>
+			<creator>:: Bia2Melody.ir ::</creator>
+			<album>:: Bia2Melody.ir ::</album>
+			<annotation>:: Bia2Melody.ir ::</annotation>
+			<duration>805967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20ft.%20Ehsan_Afshari%20-%202%20dar%201.mp3</location>
+			<duration>975510</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Tomor%202.mp3</location>
+			<title>Tomor 2 [www.Myiranmag.com]</title>
+			<creator>Ali Azar  [www.Myiranmag.com]</creator>
+			<album>[www.Myiranmag.com]</album>
+			<annotation>[www.Myiranmag.com]</annotation>
+			<duration>531201</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+	</extension>
+</playlist>
