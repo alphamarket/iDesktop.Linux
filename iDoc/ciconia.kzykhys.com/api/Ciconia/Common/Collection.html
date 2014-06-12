@@ -1,0 +1,1027 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ciconia\Common\Collection - API - Ciconia (A Markdown Parser)</title>
+  <link rel="stylesheet" href="../../../assets/css/kzykhys.com.css">
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46142986-1', 'kzykhys.com');
+    ga('send', 'pageview');
+  </script>
+</head>
+<body>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <header style="padding-top:5px;margin-bottom:0px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <h1 style="font-size:22px;margin-top:12px;">
+            <a href="http://kzykhys.com/" style="text-decoration:none;">
+              <img src="http://www.gravatar.com/avatar/6eb968b788b89c1a6a1564ccdb9560e1.png?s=70" class="img-thumbnail" alt="gravatar" width="35" height="35" style="margin-top:-4px;">
+              @kzykhys
+            </a>
+          </h1>
+        </div>
+        <div id="nav" class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-right">
+          <nav style="margin-top:0;">
+            <a style="font-size:22px;" href="http://kzykhys.com/projects/">Projects</a>
+            <a style="font-size:22px;" href="http://kzykhys.com/blog/">Blog</a>
+            <a style="font-size:22px;" href="https://github.com/kzykhys" class="icon"><span aria-hidden="true" class="icon-github"></span></a>
+            <a style="font-size:22px;" href="https://twitter.com/kzykhys" class="icon"><span aria-hidden="true" class="icon-twitter"></span></a>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="a-project-content content">
+  <div class="content-header" style="padding:10px 0;">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-8">
+          <h1 style="margin:0;font-size:30px;"><a href="../../../index.html" style="color:#fff;text-decoration:none;">Ciconia</a> <small style="color:#eee;font-size:18px;">/ A New Markdown Parser for #PHP</small></h1>
+        </div>
+        <div class="col-lg-4 col-md-4 text-right hidden-sm">
+          <a class="btn btn-primary" href="https://github.com/kzykhys/Ciconia/releases">Download Now</a>
+          <a class="btn btn-default" href="https://github.com/kzykhys/Ciconia"><span aria-hidden="true" class="icon-github"></span> Fork on Github</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="content-header" style="padding:10px 0;background-color:#0d96ad;">
+    <div class="container">
+      <nav class="ciconia-subnav">
+        <a class="btn btn-info" href="../../../index.html">Try Ciconia</a>
+        <a class="btn btn-info" href="../../../docs/index.html">Documentation</a>
+        <a class="btn btn-info" href="../../../syntax.html">Markdown Syntax</a>
+        <a class="btn btn-info" href="../../../development.html">Development</a>
+        <a class="btn btn-info active" href="../../index.html">API</a>
+      </nav>
+    </div>
+  </div>
+
+  <div class="container api-reference" style="margin-top:10px;">
+    <div class="row">
+      <div class="col-lg-3 col-md-3">
+        <div class="panel" style="margin-top:20px;">
+          <div class="panel-heading">Class Tree</div>
+          <div class="panel-body api-tree">
+            <ul class="list-unstyled">
+  <li>Common
+    <ul>
+      <li><a href="Collection.html">Collection</a>
+      </li>
+      <li><a href="Tag.html">Tag</a>
+      </li>
+      <li><a href="Text.html">Text</a>
+      </li>
+    </ul>
+  </li>
+  <li>Console
+    <ul>
+      <li>Command
+        <ul>
+          <li><a href="../Console/Command/CiconiaCommand.html">CiconiaCommand</a>
+          </li>
+          <li><a href="../Console/Command/CompileCommand.html">CompileCommand</a>
+          </li>
+        </ul>
+      </li>
+      <li><a href="../Console/Application.html">Application</a>
+      </li>
+    </ul>
+  </li>
+  <li>Diagnose
+    <ul>
+      <li><a href="../Diagnose/Ciconia.html">Ciconia</a>
+      </li>
+      <li><a href="../Diagnose/Event.html">Event</a>
+      </li>
+      <li><a href="../Diagnose/Markdown.html">Markdown</a>
+      </li>
+    </ul>
+  </li>
+  <li>Event
+    <ul>
+      <li><a href="../Event/EmitterAwareInterface.html">EmitterAwareInterface</a>
+      </li>
+      <li><a href="../Event/EmitterAwareTrait.html">EmitterAwareTrait</a>
+      </li>
+      <li><a href="../Event/EmitterInterface.html">EmitterInterface</a>
+      </li>
+      <li><a href="../Event/EmitterTrait.html">EmitterTrait</a>
+      </li>
+    </ul>
+  </li>
+  <li>Exception
+    <ul>
+      <li><a href="../Exception/MarkdownException.html">MarkdownException</a>
+      </li>
+      <li><a href="../Exception/SyntaxError.html">SyntaxError</a>
+      </li>
+    </ul>
+  </li>
+  <li>Extension
+    <ul>
+      <li>Core
+        <ul>
+          <li><a href="../Extension/Core/BlockQuoteExtension.html">BlockQuoteExtension</a>
+          </li>
+          <li><a href="../Extension/Core/CodeExtension.html">CodeExtension</a>
+          </li>
+          <li><a href="../Extension/Core/EscaperExtension.html">EscaperExtension</a>
+          </li>
+          <li><a href="../Extension/Core/HeaderExtension.html">HeaderExtension</a>
+          </li>
+          <li><a href="../Extension/Core/HorizontalRuleExtension.html">HorizontalRuleExtension</a>
+          </li>
+          <li><a href="../Extension/Core/HtmlBlockExtension.html">HtmlBlockExtension</a>
+          </li>
+          <li><a href="../Extension/Core/ImageExtension.html">ImageExtension</a>
+          </li>
+          <li><a href="../Extension/Core/InlineStyleExtension.html">InlineStyleExtension</a>
+          </li>
+          <li><a href="../Extension/Core/LinkExtension.html">LinkExtension</a>
+          </li>
+          <li><a href="../Extension/Core/ListExtension.html">ListExtension</a>
+          </li>
+          <li><a href="../Extension/Core/ParagraphExtension.html">ParagraphExtension</a>
+          </li>
+          <li><a href="../Extension/Core/WhitespaceExtension.html">WhitespaceExtension</a>
+          </li>
+        </ul>
+      </li>
+      <li>Gfm
+        <ul>
+          <li><a href="../Extension/Gfm/FencedCodeBlockExtension.html">FencedCodeBlockExtension</a>
+          </li>
+          <li><a href="../Extension/Gfm/InlineStyleExtension.html">InlineStyleExtension</a>
+          </li>
+          <li><a href="../Extension/Gfm/TableExtension.html">TableExtension</a>
+          </li>
+          <li><a href="../Extension/Gfm/TaskListExtension.html">TaskListExtension</a>
+          </li>
+          <li><a href="../Extension/Gfm/UrlAutoLinkExtension.html">UrlAutoLinkExtension</a>
+          </li>
+          <li><a href="../Extension/Gfm/WhiteSpaceExtension.html">WhiteSpaceExtension</a>
+          </li>
+        </ul>
+      </li>
+      <li><a href="../Extension/ExtensionInterface.html">ExtensionInterface</a>
+      </li>
+    </ul>
+  </li>
+  <li>Renderer
+    <ul>
+      <li><a href="../Renderer/HtmlRenderer.html">HtmlRenderer</a>
+      </li>
+      <li><a href="../Renderer/RendererAwareInterface.html">RendererAwareInterface</a>
+      </li>
+      <li><a href="../Renderer/RendererAwareTrait.html">RendererAwareTrait</a>
+      </li>
+      <li><a href="../Renderer/RendererInterface.html">RendererInterface</a>
+      </li>
+      <li><a href="../Renderer/XhtmlRenderer.html">XhtmlRenderer</a>
+      </li>
+    </ul>
+  </li>
+  <li><a href="../Ciconia.html">Ciconia</a>
+  </li>
+  <li><a href="../HashRegistry.html">HashRegistry</a>
+  </li>
+  <li><a href="../Markdown.html">Markdown</a>
+  </li>
+</ul>
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-9 col-md-9">
+        <div class="content">
+        <h2 class="title">    <small>class</small>
+    Collection        <small>implements</small>
+        <a href="http://php.net/IteratorAggregate"><abbr title="IteratorAggregate">IteratorAggregate</abbr></a><small>,</small> <a href="http://php.net/Countable"><abbr title="Countable">Countable</abbr></a></h2>
+
+    
+    
+    
+            <h3>Methods</h3>
+
+            <table>
+                    <tr>
+                <td class="type">
+                    
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method___construct">__construct</a>(array $objects = array())
+                    <p>Constructor</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_add">add</a>(mixed $object)
+                    <p>Appends a new value as the last element.</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_set">set</a>(string $name, mixed $object)
+                    <p>Sets the value at the specified index</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    mixed
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_get">get</a>(string $name)
+                    <p>Returns the value at the specified index</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    bool
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_exists">exists</a>(string $name)
+                    <p>Returns whether the requested index exists</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    bool
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_contains">contains</a>(mixed $object)
+                    <p>Returns whether the requested value exists</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_remove">remove</a>(string $name)
+                    <p>Remove</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    string
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_join">join</a>(string $glue = &#039;&#039;)
+                    <p>Join array elements with a string</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_slice">slice</a>(integer $offset, integer $length = null)
+                    <p>Extract a slice of the array</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_each">each</a>(callable $callable)
+                    <p>Execute the callback for each element</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_apply">apply</a>(callable $callable)
+                    <p>Applies the callback to the elements</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_filter">filter</a>(callable $callable = null)
+                    <p>Filters elements using a callback function</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    <a href="http://php.net/Traversable"><abbr title="Traversable">Traversable</abbr></a>
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_getIterator">getIterator</a>()
+                    <p>Retrieve an external iterator</p>                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type">
+                    int
+                </td>
+                <td class="last">
+                    <a href="Collection.html#method_count">count</a>()
+                    <p>Count elements of an object</p>                </td>
+                <td></td>
+            </tr>
+            </table>
+
+
+        <h3>Details</h3>
+
+                      <div class="panel">
+    <h4 class="panel-heading" id="method___construct">
+      <small class="location pull-right">at line 21</small>
+                  public            
+    <strong>__construct</strong>(array $objects = array())
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Constructor</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>array</td>
+                <td>$objects</td>
+                <td>[optional]</td>
+            </tr>
+            </table>
+
+          
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_add">
+      <small class="location pull-right">at line 33</small>
+                  public            <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+    <strong>add</strong>(mixed $object)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Appends a new value as the last element.</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>mixed</td>
+                <td>$object</td>
+                <td>The value to append</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td><a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_set">
+      <small class="location pull-right">at line 48</small>
+                  public            <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+    <strong>set</strong>(string $name, mixed $object)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Sets the value at the specified index</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>string</td>
+                <td>$name</td>
+                <td>The index</td>
+            </tr>
+                    <tr>
+                <td>mixed</td>
+                <td>$object</td>
+                <td>The value</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td><a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_get">
+      <small class="location pull-right">at line 64</small>
+                  public            mixed
+    <strong>get</strong>(string $name)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Returns the value at the specified index</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>string</td>
+                <td>$name</td>
+                <td>The index</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td>mixed</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+                      <h4>Exceptions</h4>
+
+                <table>
+                    <tr>
+                <td><a href="http://php.net/OutOfBoundsException"><abbr title="OutOfBoundsException">OutOfBoundsException</abbr></a></td>
+                <td>When the index is invalid</td>
+            </tr>
+            </table>
+
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_exists">
+      <small class="location pull-right">at line 80</small>
+                  public            bool
+    <strong>exists</strong>(string $name)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Returns whether the requested index exists</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>string</td>
+                <td>$name</td>
+                <td>The index</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td>bool</td>
+            <td>True if the index is valid</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_contains">
+      <small class="location pull-right">at line 92</small>
+                  public            bool
+    <strong>contains</strong>(mixed $object)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Returns whether the requested value exists</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>mixed</td>
+                <td>$object</td>
+                <td>The value</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td>bool</td>
+            <td>True if the value exists</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_remove">
+      <small class="location pull-right">at line 104</small>
+                  public            <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+    <strong>remove</strong>(string $name)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Remove</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>string</td>
+                <td>$name</td>
+                <td>The index</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td><a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_join">
+      <small class="location pull-right">at line 120</small>
+                  public            string
+    <strong>join</strong>(string $glue = &#039;&#039;)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Join array elements with a string</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>string</td>
+                <td>$glue</td>
+                <td>[optional] Defaults to an empty string.</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_slice">
+      <small class="location pull-right">at line 137</small>
+                  public            <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+    <strong>slice</strong>(integer $offset, integer $length = null)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Extract a slice of the array</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>integer</td>
+                <td>$offset</td>
+                <td>If offset is non-negative, the sequence will start at that offset in the array. If offset is negative, the sequence will start that far from the end of the array.</td>
+            </tr>
+                    <tr>
+                <td>integer</td>
+                <td>$length</td>
+                <td>If length is given and is positive, then the sequence will have up to that many elements in it. If the array is shorter than the length, then only the available array elements will be present. If length is given and is negative then the sequence will stop that many elements from the end of the array. If it is omitted, then the sequence will have everything from offset up until the end of the array.</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td><a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_each">
+      <small class="location pull-right">at line 149</small>
+                  public            <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+    <strong>each</strong>(callable $callable)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Execute the callback for each element</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>callable</td>
+                <td>$callable</td>
+                <td>function ($value, $key) {}</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td><a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_apply">
+      <small class="location pull-right">at line 167</small>
+                  public            <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+    <strong>apply</strong>(callable $callable)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Applies the callback to the elements</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>callable</td>
+                <td>$callable</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td><a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_filter">
+      <small class="location pull-right">at line 181</small>
+                  public            <a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a>
+    <strong>filter</strong>(callable $callable = null)
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Filters elements using a callback function</p>
+        <p>
+</p>
+        <div class="tags">
+                      <h4>Parameters</h4>
+
+                <table>
+                    <tr>
+                <td>callable</td>
+                <td>$callable</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td><a href="Collection.html"><abbr title="Ciconia\Common\Collection">Collection</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_getIterator">
+      <small class="location pull-right">at line 191</small>
+                  public            <a href="http://php.net/Traversable"><abbr title="Traversable">Traversable</abbr></a>
+    <strong>getIterator</strong>()
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Retrieve an external iterator</p>
+        <p>
+</p>
+        <div class="tags">
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td><a href="http://php.net/Traversable"><abbr title="Traversable">Traversable</abbr></a></td>
+            <td>An instance of an object implementing <b>Iterator</b> or <b>Traversable</b></td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+              <div class="panel">
+    <h4 class="panel-heading" id="method_count">
+      <small class="location pull-right">at line 201</small>
+                  public            int
+    <strong>count</strong>()
+    </h4>
+    <div class="panel-body">
+      <div class="details">
+        <p>Count elements of an object</p>
+        <p>
+</p>
+        <div class="tags">
+          
+                      <h4>Return Value</h4>
+
+                <table>
+        <tr>
+            <td>int</td>
+            <td>The custom count as an integer. The return value is cast to an integer.</td>
+        </tr>
+    </table>
+
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+
+                        
+
+    
+    </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="a-project-content">
+    <div class="project-footer" style="padding:15px 0;">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12">
+            <span class="text-muted">Current version: v1.0.3</span> <small class="text-muted">/</small>
+            <span class="text-muted">License: The MIT License</span> <small class="text-muted">/</small>
+            <a href="https://github.com/kzykhys/Ciconia/releases">Releases</a> <small class="text-muted">/</small>
+            <a href="https://github.com/kzykhys/Ciconia/issues">Issues</a> <small class="text-muted">/</small>
+            <a href="https://github.com/kzykhys/Ciconia/issues/milestones">Milestones</a> <small class="text-muted">/</small>
+            <a href="https://github.com/kzykhys/Ciconia/graphs/contributors">Contributors</a> <small class="text-muted">/</small>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-md-6">&copy; 2013 Kazuyuki Hayashi.</div>
+        <div class="col-lg-6 col-md-6 text-right">
+          <iframe src="http://ghbtns.com/github-btn.html?user=kzykhys&type=follow"
+                  allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
+          <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+          <div class="fb-like" data-href="http://ciconia.kzykhys.com/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="../../../assets/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="../../../assets/js/kzykhys.com.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(function () {
+      $('#preview').find('a').click(function () {
+        $('#loading').show();
+        $('#api-error').hide();
+        $.ajax({
+          url: 'http://api.kzykhys.com/ciconia/markdown',
+          method: 'post',
+          data: { text: $('#markdown-text').val() }
+        })
+        .done(function (html) {
+          $('#loading').hide();
+          $('#preview-content').html(html);
+          $('#nav-demo').find('li').removeClass('active');
+          $('#preview').addClass('active');
+          $('#write-content').addClass('hide');
+          $('#preview-content').removeClass('hide');
+        })
+        .error(function () {
+          $('#loading').hide();
+          $('#api-error').show();
+        });
+
+        return false;
+      });
+
+      $('#write').find('a').click(function () {
+        $('#nav-demo').find('li').removeClass('active');
+        $('#write').addClass('active');
+        $('#write-content').removeClass('hide');
+        $('#preview-content').addClass('hide');
+
+        return false;
+      });
+
+      $('.markdown-sample').click(function () {
+        $.ajax({
+          url: '/sample/' + $(this).attr('data-content') + '.md.txt',
+          method: 'get'
+        })
+        .done(function (text) {
+          $('#markdown-text').val(text);
+        });
+
+        return false;
+      });
+    });
+  </script>
+</body>
+</html>

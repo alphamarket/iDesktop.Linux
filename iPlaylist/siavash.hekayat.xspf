@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/01%29_Az_Eshghe_To%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>176386</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/02%29_Bacheha%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>155254</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/03%29_Choopaan%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>170822</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/04%29_Daryaaye_Toofaani%20%28Fars-Kids%29.mp3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>225891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/05%29_Gom_Kardeh%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>232968</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/06%29_Har_Doe_Maa%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>95198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/07%29_Hekaayat%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>477970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/08%29_Oon_Roozaa%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>226463</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/09%29_Parandehaye_Ghafasi%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>441790</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/10%29_Shekayat%20%28Fars-Kids%29.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>486747</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+	</extension>
+</playlist>
