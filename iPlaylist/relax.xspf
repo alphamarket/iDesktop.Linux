@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Relaxation%20Music%20Collection/Deep%20Relaxation/bonfire_stargate_cd_17771e.mp3</location>
+			<title>evening_bonfire_stargate</title>
+			<creator>BOADD</creator>
+			<duration>4320064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Relaxation%20Music%20Collection/Deep%20Relaxation/creek_stargate_cd_162c80.mp3</location>
+			<title>Summer Creek Stargate</title>
+			<creator>BOADD</creator>
+			<duration>4320052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Relaxation%20Music%20Collection/Deep%20Relaxation/solaris_sea_cd_c42eb9.mp3</location>
+			<title>solaris_sea_cd_c42eb9</title>
+			<creator>Harry Henshaw and Mark Altman</creator>
+			<album>Relaxation CDs</album>
+			<duration>3915075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Relaxation%20Music%20Collection/Deep%20Relaxation/stargate_storm_cd_b97da4.mp3</location>
+			<title>stargate_storm_cd_b97da4</title>
+			<creator>Harry Henshaw and Mark Altman</creator>
+			<album>Relaxation CDs</album>
+			<duration>3916015</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+	</extension>
+</playlist>
