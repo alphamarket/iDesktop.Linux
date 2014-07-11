@@ -4,22 +4,14 @@
 	<trackList>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Ali%20Azar%20-%20Ham%20Marg.mp3</location>
-			<creator>( www.PressSong.IR  )</creator>
-			<album>( www.PressSong.IR  )</album>
+			<creator>Alireza Azar</creator>
+			<album>Sundries</album>
 			<trackNum>1</trackNum>
 			<annotation>( www.PressSong.IR  )</annotation>
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/%28%20www.PressSong.IR%20%20%29/%28%20www.PressSong.IR%20%20%29/art.jpg</image>
-			<duration>589115</duration>
+			<duration>589104</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Ali%20Azar_Madian.mp3</location>
-			<annotation>                              </annotation>
-			<duration>258616</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -29,14 +21,18 @@
 			<annotation>:: Bia2Melody.ir ::</annotation>
 			<duration>805967</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
+				<vlc:id>1</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20ft.%20Ehsan_Afshari%20-%202%20dar%201.mp3</location>
-			<duration>975510</duration>
+			<title>Alireza Azar ft. Ehsan_Afshari</title>
+			<creator>Alireza Azar</creator>
+			<album>Sundries</album>
+			<annotation>                              </annotation>
+			<duration>975523</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
+				<vlc:id>2</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -47,7 +43,7 @@
 			<annotation>[www.Myiranmag.com]</annotation>
 			<duration>531201</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
+				<vlc:id>3</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -56,6 +52,5 @@
 			<vlc:item tid="1"/>
 			<vlc:item tid="2"/>
 			<vlc:item tid="3"/>
-			<vlc:item tid="4"/>
 	</extension>
 </playlist>
