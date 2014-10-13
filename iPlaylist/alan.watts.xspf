@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>64763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-02%20Our%20Image%20Of%20The%20World.mp3</location>
+			<title>Our Image Of The World</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>378236</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-03%20The%20Myth%20Of%20The%20Ceramic%20Constru.mp3</location>
+			<title>The Myth Of The Ceramic Construct</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>417836</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-04%20The%20Myth%20Of%20The%20Automatic%20Unive.mp3</location>
+			<title>The Myth Of The Automatic Universe</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>611014</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-05%20A%20Wiggly%20World.mp3</location>
+			<title>A Wiggly World</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>465328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-06%20A%20Game%20That%27s%20Worth%20The%20Candle.mp3</location>
+			<title>A Game That&#39;s Worth The Candle</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>472641</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-07%20An%20Independent%20System.mp3</location>
+			<title>An Independent System</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>456603</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-08%20Whose%20Game%20Is%20It_.mp3</location>
+			<title>Whose Game Is It?</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>419169</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/01/1-09%20The%20World%20As%20A%20Drama.mp3</location>
+			<title>The World As A Drama</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>527527</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>38301</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-02%20Being%20Aware%20Of%20Awareness.mp3</location>
+			<title>Being Aware Of Awareness</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>367447</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-03%20Captivated%20By%20The%20Drama.mp3</location>
+			<title>Captivated By The Drama</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>660202</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-04%20The%20Game%20Of%20Hide%20And%20Seek.mp3</location>
+			<title>The Game Of Hide And Seek</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>600485</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-05%20Consciousness%20Beyond%20Awareness.mp3</location>
+			<title>Consciousness Beyond Awareness</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>429149</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-06%20How%20Do%20We%20Define%20Ourselves.mp3</location>
+			<title>How Do We Define Ourselves</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>374238</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-07%20What%20It%20Is%20To%20See.mp3</location>
+			<title>What It Is To See</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>614593</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-08%20The%20Road%20To%20Here.mp3</location>
+			<title>The Road To Here</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>641290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/02/2-09%20A%20Re-Examination%20Of%20Common%20Sens.mp3</location>
+			<title>A Re-Examination Of Common Sense</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>197232</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>38562</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-02%20What%20Did%20You%20Forget.mp3</location>
+			<title>What Did You Forget</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>482804</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-03%20A%20Spontaneous%20Life.mp3</location>
+			<title>A Spontaneous Life</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>303445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-04%20Seeing%20Beyond%20Our%20Separateness.mp3</location>
+			<title>Seeing Beyond Our Separateness</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>365045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-05%20Intervals%20Between%20What%20Happens.mp3</location>
+			<title>Intervals Between What Happens</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>430089</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-06%20Existance%20As%20A%20Function%20Of%20Rela.mp3</location>
+			<title>Existance As A Function Of Relationship</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>516187</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-07%20Understanding%20The%20Unitive%20World.mp3</location>
+			<title>Understanding The Unitive World</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>502577</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-08%20An%20Implicit%20Agreement.mp3</location>
+			<title>An Implicit Agreement</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>295348</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/03/3-09%20To%20Beware%20Of%20The%20Melody.mp3</location>
+			<title>To Beware Of The Melody</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>506313</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/04/4-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>37752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/04/4-02%20Web%20As%20Mutuality.mp3</location>
+			<title>Web As Mutuality</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>646460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/04/4-03%20The%20Nature%20Of%20Selfishness.mp3</location>
+			<title>The Nature Of Selfishness</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>521543</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/04/4-04%20A%20Perfectly%20Genuine%20Act.mp3</location>
+			<title>A Perfectly Genuine Act</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>547615</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/04/4-05%20The%20Sound%20Of%20Rain%20Needs%20No%20Tran.mp3</location>
+			<title>The Sound Of Rain Needs No Translation</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>430169</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/04/4-06%20What%20Game%20Would%20You%20Like%20To%20Pla.mp3</location>
+			<title>What Game Would You Like To Play?</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>529408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/04/4-07%20Is%20It%20Serious_.mp3</location>
+			<title>Is It Serious?</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>537584</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/04/4-08%20An%20Invitation%20To%20Dance.mp3</location>
+			<title>An Invitation To Dance</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>627993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>36237</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-02%20Undifferentiated%20Vs%20Differentia.mp3</location>
+			<title>Undifferentiated Vs Differentiated Awareness</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>390121</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-03%20The%20Marriage%20Of%20An%20Illusion%20To.mp3</location>
+			<title>The Marriage Of An Illusion To A Futility</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>593170</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-04%20The%20Awareness%20Of%20A%20Baby.mp3</location>
+			<title>The Awareness Of A Baby</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>338242</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-05%20The%20Fallacy%20Of%20Misplaced%20Concre.mp3</location>
+			<title>The Fallacy Of Misplaced Concreteness</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>530163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-06%20The%20Sensation%20Of%20The%20Happening.mp3</location>
+			<title>The Sensation Of The Happening</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>406134</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-07%20Of%20Pain%20And%20Suffering.mp3</location>
+			<title>Of Pain And Suffering</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>257627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-08%20Must%20Life%20Go%20On%20And%20On_.mp3</location>
+			<title>Must Life Go On And On?</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>364939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-09%20A%20Natural%20Satori.mp3</location>
+			<title>A Natural Satori</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>648159</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-10%20The%20Aversion%20To%20Death.mp3</location>
+			<title>The Aversion To Death</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>356892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-11%20The%20Eroticism%20Of%20Pain.mp3</location>
+			<title>The Eroticism Of Pain</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>401980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/05/5-12%20The%20Spectrum%20Of%20Vibrations.mp3</location>
+			<title>The Spectrum Of Vibrations</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>438422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>38562</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-02%20Seeing%20Beyond%20The%20Game.mp3</location>
+			<title>Seeing Beyond The Game</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>322935</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-03%20A%20Conspiracy%20We%20Play%20On%20Ourselv.mp3</location>
+			<title>A Conspiracy We Play On Ourselves</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>671279</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-04%20The%20Illusion%20Of%20The%20Ego.mp3</location>
+			<title>The Illusion Of The Ego</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>513368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-05%20The%20Meaningless%20Life.mp3</location>
+			<title>The Meaningless Life</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>426302</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-06%20This%20Is%20The%20Game.mp3</location>
+			<title>This Is The Game</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>538027</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-07%20So%20What%27s%20The%20Problem.mp3</location>
+			<title>So What&#39;s The Problem</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>439206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-08%20Every%20Incarnation%20Is%20This%20One.mp3</location>
+			<title>Every Incarnation Is This One</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>545758</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-09%20The%20State%20Of%20Nothing.mp3</location>
+			<title>The State Of Nothing</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>592964</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/06/6-10%20The%20Line%20Of%20Least%20Resistance.mp3</location>
+			<title>The Line Of Least Resistance</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>616211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>37230</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-02%20To%20Say%20What%20Can%27t%20Be%20Said.mp3</location>
+			<title>To Say What Can&#39;t Be Said</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>548240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-03%20Zen%27s%20Appeal%20To%20The%20West.mp3</location>
+			<title>Zen&#39;s Appeal To The West</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>478466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-04%20Direct%20Pointing.mp3</location>
+			<title>Direct Pointing</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>718507</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-05%20The%20Origins%20Of%20Zen.mp3</location>
+			<title>The Origins Of Zen</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>594793</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-06%20The%20Golden%20Age%20Of%20Zen.mp3</location>
+			<title>The Golden Age Of Zen</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>391950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-07%20No%20Mind%20No%20Deliberation.mp3</location>
+			<title>No Mind No Deliberation</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>443515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-08%20Who%20Are%20You_.mp3</location>
+			<title>Who Are You?</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>501872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-09%20Disturbing%20Confusions%20Of%20The%20Mi.mp3</location>
+			<title>Disturbing Confusions Of The Mind</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>641238</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/07/7-10%20Who%20Is%20The%20Thinker%20Behind%20The%20T.mp3</location>
+			<title>Who Is The Thinker Behind The Thoughts?</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>283228</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>36315</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-02%20Escaping%20The%20Tangle.mp3</location>
+			<title>Escaping The Tangle</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>890759</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-03%20The%20In%20Defines%20The%20Out%20Defines.mp3</location>
+			<title>The In Defines The Out Defines The In</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>552785</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-04%20The%20Japanese%20Zen%20Monastery.mp3</location>
+			<title>The Japanese Zen Monastery</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>548771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-05%20Entering%20The%20Temple.mp3</location>
+			<title>Entering The Temple</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>508145</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-06%20Answering%20The%20Koan.mp3</location>
+			<title>Answering The Koan</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>495421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-07%20Seeing%20Past%20The%20Illusion.mp3</location>
+			<title>Seeing Past The Illusion</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>345399</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-08%20The%20Decline%20Of%20Modern%20Temples.mp3</location>
+			<title>The Decline Of Modern Temples</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>151096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/08/8-09%20The%20Truth%20Of%20Birthless%20Mind.mp3</location>
+			<title>The Truth Of Birthless Mind</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>141072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>38092</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-02%20The%20Totality%20Of%20All%20Being.mp3</location>
+			<title>The Totality Of All Being</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>554744</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-03%20Awareness%20Of%20The%20Self.mp3</location>
+			<title>Awareness Of The Self</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>619791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-04%20The%20Fundamental%20I.mp3</location>
+			<title>The Fundamental I</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>657120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-05%20Self%20As%20Play.mp3</location>
+			<title>Self As Play</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>604013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-06%20The%20Rythmic%20Dance.mp3</location>
+			<title>The Rythmic Dance</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>444091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-07%20Rules%20Of%20The%20Game.mp3</location>
+			<title>Rules Of The Game</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>500853</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-08%20The%20Hindu%20Yugas.mp3</location>
+			<title>The Hindu Yugas</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>696880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/09/9-09%20Western%20Difficulty%20With%20Hindu%20M.mp3</location>
+			<title>Western Difficulty With Hindu Mythology</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>659024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>36315</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-02%20The%20Human%20World%20As%20Self.mp3</location>
+			<title>The Human World As Self</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>479146</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-03%20Stages%20Of%20Citizenship%20In%20India.mp3</location>
+			<title>Stages Of Citizenship In India</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>356292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-04%20Shedding%20The%20Masks.mp3</location>
+			<title>Shedding The Masks</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>358695</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-05%20The%20Limits%20Of%20Self-Awareness.mp3</location>
+			<title>The Limits Of Self-Awareness</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>431317</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-06%20The%20Role%20Of%20The%20Trickster.mp3</location>
+			<title>The Role Of The Trickster</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>318572</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-07%20The%20Journey%20To%20Where%20You%20Alrea.mp3</location>
+			<title>The Journey To Where You Already Are</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>261676</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-08%20Fear%20Of%20Enlightenment.mp3</location>
+			<title>Fear Of Enlightenment</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>537163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-09%20The%20Yoga%20Sutra.mp3</location>
+			<title>The Yoga Sutra</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>626346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-10%20How%20Not%20To%20Use%20The%20Mind.mp3</location>
+			<title>How Not To Use The Mind</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>402554</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-11%20Gamesmanship%20In%20Spiritual%20Prac.mp3</location>
+			<title>Gamesmanship In Spiritual Practice</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>277428</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/10/10-12%20A%20Place%20For%20The%20Hermit.mp3</location>
+			<title>A Place For The Hermit</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>684289</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>38275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-02%20The%20Essence%20Of%20Hinduism.mp3</location>
+			<title>The Essence Of Hinduism</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>577367</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-03%20The%20Four%20Noble%20Truths.mp3</location>
+			<title>The Four Noble Truths</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>457154</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-04%20The%20Cause%20Of%20Suffering.mp3</location>
+			<title>The Cause Of Suffering</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>399788</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-05%20The%20Eight-Fold%20Path.mp3</location>
+			<title>The Eight-Fold Path</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>239265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-06%20The%20Five%20Good%20Conducts.mp3</location>
+			<title>The Five Good Conducts</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>438866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-07%20Presence%20Of%20Mind.mp3</location>
+			<title>Presence Of Mind</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>509843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-08%20A%20Finger%20Pointing%20At%20The%20Moon.mp3</location>
+			<title>A Finger Pointing At The Moon</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>701187</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-09%20The%20Nature%20Of%20Change.mp3</location>
+			<title>The Nature Of Change</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>568357</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-10%20The%20Mystery%20Of%20Change.mp3</location>
+			<title>The Mystery Of Change</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>408275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/11/11-11%20Peaks%20And%20Valleys%20Go%20Together.mp3</location>
+			<title>Peaks And Valleys Go Together As One</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>376275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-01%20Introduction.mp3</location>
+			<title>Introduction</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>37752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-02%20The%20Buddhist%20Attitude%20Of%20Chang.mp3</location>
+			<title>The Buddhist Attitude Of Change</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>502290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-03%20Willing%20To%20Die.mp3</location>
+			<title>Willing To Die</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>416741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-04%20A%20Happy%20Death.mp3</location>
+			<title>A Happy Death</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>592389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-05%20Raising%20The%20Alarm.mp3</location>
+			<title>Raising The Alarm</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>375440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-06%20The%20World%20As%20Void.mp3</location>
+			<title>The World As Void</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>530320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-07%20Voiding%20The%20Void.mp3</location>
+			<title>Voiding The Void</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>498791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-08%20Consider%20Death%20Now.mp3</location>
+			<title>Consider Death Now</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>570549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Alan%20Watts-%20Out%20of%20Your%20Mind%20%28Essential%20Lectures%29/12/12-09%20Thunderous%20Silence.mp3</location>
+			<title>Thunderous Silence</title>
+			<creator>Alan Watts</creator>
+			<album>Out Of Your Mind: The Nature of Consciousness I</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alan%20Watts/Out%20Of%20Your%20Mind_%20The%20Nature%20of%20Consciousness%20I/art.jpg</image>
+			<duration>441999</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+	</extension>
+</playlist>

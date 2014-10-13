@@ -67,7 +67,7 @@
 			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
 			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
 			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>477970</duration>
+			<duration>477974</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>6</vlc:id>
 			</extension>
@@ -102,6 +102,22 @@
 				<vlc:id>9</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/siavash-%20Gomaishi%20Albom&#39;s/Hadeseh%20%5B%202001%20%5D/hadeseh.mp3</location>
+			<annotation>                              </annotation>
+			<duration>778927</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/siavash-%20Gomaishi%20Albom&#39;s/Hadeseh%20%5B%202001%20%5D/hadeseh%202..mp3</location>
+			<annotation>                              </annotation>
+			<duration>724905</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 			<vlc:item tid="0"/>
@@ -114,5 +130,7 @@
 			<vlc:item tid="7"/>
 			<vlc:item tid="8"/>
 			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
 	</extension>
 </playlist>

@@ -32,7 +32,7 @@
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Baroon.MP3</location>
 			<annotation>                              </annotation>
-			<duration>282062</duration>
+			<duration>282060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>3</vlc:id>
 			</extension>
@@ -49,7 +49,7 @@
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Chedardist%20.mp3</location>
 			<annotation>                              </annotation>
-			<duration>345145</duration>
+			<duration>345940</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>5</vlc:id>
 			</extension>
@@ -202,6 +202,16 @@
 				<vlc:id>22</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Sundries/Siavash%20Ghomayshi%20-%20Ayandeh.mp3</location>
+			<title>Ayandeh</title>
+			<creator>Siavash Ghomayshi</creator>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/deb8b412a6796cb579e18653230c848c/art.jpg</image>
+			<duration>252051</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 			<vlc:item tid="0"/>
@@ -227,5 +237,6 @@
 			<vlc:item tid="20"/>
 			<vlc:item tid="21"/>
 			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
 	</extension>
 </playlist>

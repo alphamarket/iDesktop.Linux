@@ -3,355 +3,131 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Ah%20Keskem.mp3</location>
-			<creator>Roman_mp3@yahoo.com</creator>
-			<album>Roman_mp3@yahoo.com</album>
-			<annotation>Roman_mp3@yahoo.com</annotation>
-			<duration>196681</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Aramam.mp3</location>
+			<annotation>                              </annotation>
+			<duration>298088</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Aramam.mp3</location>
-			<creator>Roman_mp3@yahoo.com</creator>
-			<album>Roman_mp3@yahoo.com</album>
-			<annotation>Roman_mp3@yahoo.com</annotation>
-			<duration>298088</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Bebegim.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/e10e6ff116ca9f6fdad232237af61a2f/art.jpg</image>
+			<duration>269928</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Bebegim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e10e6ff116ca9f6fdad232237af61a2f/art.jpg</image>
-			<duration>269929</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Haydi%20Soyle.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/ebcc76724e6317077212e87a71286113/art.jpg</image>
+			<duration>258983</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Benim%20Hayatim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/054b8841cfdcec2e032c803c72a99030/art.jpg</image>
-			<duration>280718</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Seni%20Sevmedigim%20Yalan.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/cc9f3a67c7e54cf22f034e6cb5578c05/art.jpg</image>
+			<duration>346284</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>3</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Gulum%20Benim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/f30b4bdba40ff29d5faa2d7f6a2727d8/art.jpg</image>
-			<duration>250336</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Yagmurla%20Gelen%20Kadin.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/e3b192a3d8f80e53cc8b3b1fa1bfd7eb/art.jpg</image>
+			<duration>273084</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>4</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Haydi%20Soyle.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/ebcc76724e6317077212e87a71286113/art.jpg</image>
-			<duration>258983</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/02%20-%20Seni%20Sana%20Birakmam.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/80e6247842112f36128eb025edd987cf/art.jpg</image>
+			<duration>265513</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Mutlu%20Ol%20Yeter.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/32f593f11e7786b4ca17d2bcdfdcaada/art.jpg</image>
-			<duration>263868</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Hasret%20Kaldim.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/0d75da29e263f98bbb0c072710ec6fdd/art.jpg</image>
+			<duration>298584</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>6</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Seni%20Sevmedigim%20Yalan.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/cc9f3a67c7e54cf22f034e6cb5578c05/art.jpg</image>
-			<duration>346284</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Sen%20Al%20Canimi.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/088247a6b3fc2462ed81a38f03eee545/art.jpg</image>
+			<duration>285944</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>7</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/01%20-%20Yagmurla%20Gelen%20Kadin.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e3b192a3d8f80e53cc8b3b1fa1bfd7eb/art.jpg</image>
-			<duration>273084</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Sozum%20Yok%20Artik.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/dcbd45a3e68dcfe99b62774d52c5c4ca/art.jpg</image>
+			<duration>294956</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>8</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/02%20-%20Bende%20Insanim.mp3</location>
-			<creator>Roman_mp3@yahoo.com</creator>
-			<album>Roman_mp3@yahoo.com</album>
-			<annotation>Roman_mp3@yahoo.com</annotation>
-			<duration>284713</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/05%20-%20Davaci.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/a747956223146c1104c223a1b3dbd745/art.jpg</image>
+			<duration>258220</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>9</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/02%20-%20Iste%20Dostlar.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/7fe3a962551a7ac3abe6bb6b62f104d4/art.jpg</image>
-			<duration>289076</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/07%20-%20Yorgun.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/e1bfdd360341176a439b7a664ab0e50f/art.jpg</image>
+			<duration>340406</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/02%20-%20Seni%20Sana%20Birakmam.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/80e6247842112f36128eb025edd987cf/art.jpg</image>
-			<duration>265513</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Anam.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/7a5091c2a0026426b52f67ddeeb53ffc/art.jpg</image>
+			<duration>303704</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>11</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/03%20-%20Aksamdan%20Aksama.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/7a8dc9787d771eeb91728086c1ee2952/art.jpg</image>
-			<duration>327737</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Bir%20Ayrilik%20Sarkisi.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/3b33b23f6db7c94ddafde4c0a3197116/art.jpg</image>
+			<duration>310157</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>12</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/03%20-%20Hasret%20Kaldim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/0d75da29e263f98bbb0c072710ec6fdd/art.jpg</image>
-			<duration>298584</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Bir%20Kulunu%20Cok%20Sevdim%20-%20Ykilmisim%20Ben-Aci%20%20Gercekler.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/3baf650b90be23dcaa46708711bde926/art.jpg</image>
+			<duration>692929</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>13</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/03%20-%20Sen%20Al%20Canimi.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/088247a6b3fc2462ed81a38f03eee545/art.jpg</image>
-			<duration>285944</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Namerd%20Olayim.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/5e0ad88bde752265eeebab30e58b845b/art.jpg</image>
+			<duration>283409</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>14</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/03%20-%20Sormadin%20Beni.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/00240c8fb927fa3741729d34744e4031/art.jpg</image>
-			<duration>309007</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/03%20-%20Sozum%20Yok%20Artik.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/dcbd45a3e68dcfe99b62774d52c5c4ca/art.jpg</image>
-			<duration>294956</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>16</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/04%20-%20Hesabim%20var.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/d60ab9722113fd55c2838a1e7b55c323/art.jpg</image>
-			<duration>293203</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/05%20-%20Ben%20ne%20Insanlar%20Gordum.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/4720ef1ccdb12fc6d41df0f1be611c78/art.jpg</image>
-			<duration>330010</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>18</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/05%20-%20Davaci.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/a747956223146c1104c223a1b3dbd745/art.jpg</image>
-			<duration>258220</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>19</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/05%20-%20Keskin%20Bicak.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/731537487df98d76499daca25ea1b720/art.jpg</image>
-			<duration>260524</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>20</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/07%20-%20Esik%20Tasi.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/2b6dafe148381f5e70118066a7774d46/art.jpg</image>
-			<duration>256112</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>21</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/07%20-%20Firat.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/3627314af51596540cb556099cfaad80/art.jpg</image>
-			<duration>313318</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>22</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/07%20-%20Iki%20Gozum%20Iki%20Cesme.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/071772b729b3e193999ff59d97983753/art.jpg</image>
-			<duration>249683</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>23</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/07%20-%20Sevdalandim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/dd4cb58445c41d54faed146c1cac5c92/art.jpg</image>
-			<duration>228446</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>24</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/07%20-%20Yorgun.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e1bfdd360341176a439b7a664ab0e50f/art.jpg</image>
-			<duration>340406</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>25</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/08%20-%20Anam.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/7a5091c2a0026426b52f67ddeeb53ffc/art.jpg</image>
-			<duration>303704</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>26</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/08%20-%20Bir%20Ayrilik%20Sarkisi.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/3b33b23f6db7c94ddafde4c0a3197116/art.jpg</image>
-			<duration>310157</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>27</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/08%20-%20Bir%20Kulunu%20Cok%20Sevdim%20-%20Ykilmisim%20Ben-Aci%20%20Gercekler.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/3baf650b90be23dcaa46708711bde926/art.jpg</image>
-			<duration>692933</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>28</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/08%20-%20Daglarda%20Kar%20Olsaydim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/883cd5ccdc6673e934ab3c7c54a3f936/art.jpg</image>
-			<duration>225024</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>29</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/08%20-%20Namerd%20Olayim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/5e0ad88bde752265eeebab30e58b845b/art.jpg</image>
-			<duration>283407</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>30</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/09%20-%20Huzurum%20Kalmadi.mp3</location>
-			<creator>Roman_Mp3@Yahoo.Com 0936 446 1003</creator>
-			<album>Roman_Mp3@Yahoo.Com 0936 446 1003</album>
-			<annotation>Roman_Mp3@Yahoo.Com 0936 446 1003</annotation>
-			<duration>270821</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>31</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/09%20-%20Layik%20Degilsin.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/f09f4577e2e3fce796a3e64f7189f776/art.jpg</image>
-			<duration>241536</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>32</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/09%20-%20Saygimiz%20Var.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/0e95c861b2d0be04fa98195bbaff021d/art.jpg</image>
-			<duration>246235</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>33</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/09%20-%20Yaniyor%20Yuregim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e6909ae263b8c91a4be480f95e35b2ca/art.jpg</image>
-			<duration>218023</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>34</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/10%20-%20Ak%20Deniz%20Aksamlari.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/10%20-%20Ak%20Deniz%20Aksamlari.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/4ee32fbedb3b8f9436ff57b54fb34998/art.jpg</image>
 			<duration>248220</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>35</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/10%20-%20Bir%20Allahim%20Var.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/62c1b62fc2824d5fd98ba46f111cfa54/art.jpg</image>
-			<duration>222829</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>36</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/11%20-%20Sarhos.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/629034456f2256a031412f4133d6eaf4/art.jpg</image>
-			<duration>282153</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>37</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/11%20-%20Tovbeler%20Olsun.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/9fdee31cbe98eb011397edd265b1a5ef/art.jpg</image>
-			<duration>151332</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>38</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/12%20-%20Esarbini%20Yan%20Baglama.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/a1c8cfc1469dc578d61129aa2f7391d0/art.jpg</image>
-			<duration>268703</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>39</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/13%20-%20Etek%20Sari.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/bc227b97481a16c6f92e3e21064e3a3c/art.jpg</image>
-			<duration>248145</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>40</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/13%20-%20Nideyim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/4e20fe9e076ba49491b32f6af3025001/art.jpg</image>
-			<duration>231968</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>41</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Sundries/Ibo/13%20-%20Turkmen%20Gelini.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/700834eefbc2c09a931bf87ca5a52158/art.jpg</image>
-			<duration>222568</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>42</vlc:id>
+				<vlc:id>15</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -372,32 +148,5 @@
 			<vlc:item tid="13"/>
 			<vlc:item tid="14"/>
 			<vlc:item tid="15"/>
-			<vlc:item tid="16"/>
-			<vlc:item tid="17"/>
-			<vlc:item tid="18"/>
-			<vlc:item tid="19"/>
-			<vlc:item tid="20"/>
-			<vlc:item tid="21"/>
-			<vlc:item tid="22"/>
-			<vlc:item tid="23"/>
-			<vlc:item tid="24"/>
-			<vlc:item tid="25"/>
-			<vlc:item tid="26"/>
-			<vlc:item tid="27"/>
-			<vlc:item tid="28"/>
-			<vlc:item tid="29"/>
-			<vlc:item tid="30"/>
-			<vlc:item tid="31"/>
-			<vlc:item tid="32"/>
-			<vlc:item tid="33"/>
-			<vlc:item tid="34"/>
-			<vlc:item tid="35"/>
-			<vlc:item tid="36"/>
-			<vlc:item tid="37"/>
-			<vlc:item tid="38"/>
-			<vlc:item tid="39"/>
-			<vlc:item tid="40"/>
-			<vlc:item tid="41"/>
-			<vlc:item tid="42"/>
 	</extension>
 </playlist>
