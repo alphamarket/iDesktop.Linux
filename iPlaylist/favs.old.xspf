@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Rafighe%20Ghosse.mp3</location>
+			<annotation>                              </annotation>
+			<duration>223173</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/02%20-%20Chike%20Chike.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>234708</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/02%20Dorit__(%20WwW.ToopMusic.In%20).mp3</location>
+			<title>:.:.: Www.ToopMusic.In :.:.:</title>
+			<creator>Dorit__Www.ToopMusic.In</creator>
+			<album>Info.Toopmusic@gmail.com</album>
+			<annotation>Info.Toopmusic@gmail.com</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dorit__Www.ToopMusic.In/Info.Toopmusic%40gmail.com/art.jpg</image>
+			<duration>234766</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/03%20-%20Nemidooni%20(Rock%20ReMiX).mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>Parsa &quot;0914 349 2797&quot; Bivafa</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>180305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/10%20-%20Khatoon.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>Parsa &quot;0914 349 2797&quot; Bivafa</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Bivafa_Va_Parsa20%40Yahoo.Com/Parsa%20_0914%20349%202797_%20Bivafa/art.jpg</image>
+			<duration>275865</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01-Hozur(Faseleh).mp3</location>
+			<title>01-Hozur(Faseleh).mp3</title>
+			<creator>*Stranger Man*</creator>
+			<album>Faseleh</album>
+			<duration>280981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01%20-%20Khiyal.mp3</location>
+			<creator>Roman_Mp3@Yahoo.Com</creator>
+			<album>Bivafa_Va_ParSa20@Yahoo.Com</album>
+			<annotation>Bivafa_Va_Man20 &amp; Roman_Mp3</annotation>
+			<duration>225050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01%20-%20Talkh.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>283006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01%20-%20Vabsteh.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>167520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/02%20-%20Royaye%20Vagheyi.mp3</location>
+			<trackNum>2</trackNum>
+			<duration>234715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/03%20Halam%20Avaz%20Mishe.mp3</location>
+			<title>Halam Avaz Mishe</title>
+			<creator>Shadmehr Aghili</creator>
+			<album>Tarafdar</album>
+			<trackNum>3</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Shadmehr%20Aghili/Tarafdar/art.jpg</image>
+			<duration>318123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/03%20Khabe%20Mahal.mp3</location>
+			<creator>Mohammad Najm ( Ganja2Music.Com )</creator>
+			<album>Azat Delkhoram ( Ganja2Music.Com )</album>
+			<annotation>( Ganja2Music.Com )</annotation>
+			<duration>228843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01%20Nemidoonam.mp3</location>
+			<title>Ehsan Khaje Amiri - Ye Khatereh Az Farda  ( www.behmusic2.com )</title>
+			<creator>Ehsan Khaje Amiri - Ye Khatereh Az Farda  ( www.behmusic2.com )</creator>
+			<album>Ehsan Khaje Amiri - Ye Khatereh Az Farda  ( www.behmusic2.com )</album>
+			<annotation>Ehsan Khaje Amiri - Ye Khatereh Az Farda  ( www.behmusic2.com )</annotation>
+			<duration>264001</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/04-Hese%20Mobham%20%5B%20Exclusive%20TS%5D.mp3</location>
+			<title>Hese Mobham</title>
+			<creator>Googoosh [ Exclusive TS ]</creator>
+			<album>Ejaz  [ Exclusive TS]</album>
+			<trackNum>4</trackNum>
+			<annotation>TS</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Googoosh%20%5B%20Exclusive%20TS%20%5D/Ejaz%20%20%5B%20Exclusive%20TS%5D/art.jpg</image>
+			<duration>290254</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/06%20-%20Un%20To%20Nisty.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>241760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/07-%20Man%20MenhayeTo.mp3</location>
+			<title>Man Menhaye To ( Www.Ahanghaa20.Com )</title>
+			<creator>Hamid Razavi ( Www.Ahanghaa20.Com )</creator>
+			<album>Marg e Ejbari ( Www.Ahanghaa20.Com )</album>
+			<annotation>Www.Ahanghaa20.Com</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Hamid%20Razavi%20%28%20Www.Ahanghaa20.Com%20%29/Marg%20e%20Ejbari%20%28%20Www.Ahanghaa20.Com%20%29/art.jpg</image>
+			<duration>213739</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/07___TRACK.MP3</location>
+			<duration>245397</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/08.%20Vas%20Vase.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>Parsa &quot;0914 349 2797&quot; Bivafa</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Bivafa_Va_Parsa20%40Yahoo.Com/Parsa%20_0914%20349%202797_%20Bivafa/art.jpg</image>
+			<duration>204946</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/12%20-%20Farze%20Mahal.mp3</location>
+			<trackNum>12</trackNum>
+			<duration>227061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Arsalan%20-%20Jadeh.mp3</location>
+			<title>Jadeh</title>
+			<creator>Arsalan</creator>
+			<album>Jadeh Single</album>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Arsalan/Jadeh%20Single/art.jpg</image>
+			<duration>207782</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Ehsan%20Khajehamiri%20-%20Naborde%20Ranj.mp3</location>
+			<title>Naborde Ranj</title>
+			<creator>Ehsan Khajehamiri</creator>
+			<album>Naborde Ranj Single</album>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Ehsan%20Khajehamiri/Naborde%20Ranj%20Single/art.jpg</image>
+			<duration>49239</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Hamid%20Modiri%20-%20Hanooz%20Baroono%20Doost%20Dari%20%5B320%5D.mp3</location>
+			<title>Hanooz Baroono Doost Dari</title>
+			<creator>Hamid Modiri</creator>
+			<album>[wWw.MyFaza2Music.com]</album>
+			<annotation>[wWw.MyFaza2Music.com]</annotation>
+			<duration>285469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Kamran%20Hooman%20-%20Man%20to%20ro%20mikham.mp3</location>
+			<title>Track 7</title>
+			<creator>Unknown Artist</creator>
+			<album>Unknown Album</album>
+			<duration>253369</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Mehran%20Atash%20-%20Ba%20Man%20Ghadam%20Bezan.mp3</location>
+			<title>Ba Man Ghadam Bezan</title>
+			<creator>Mehran Atash</creator>
+			<album>Ba Man Ghadam Bezan Single</album>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mehran%20Atash/Ba%20Man%20Ghadam%20Bezan%20Single/art.jpg</image>
+			<duration>239417</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Mohsen%20Chavoshi%20-%2003%20Khianat.mp3</location>
+			<title>Khianat</title>
+			<creator>Mohsen Chavoshi</creator>
+			<album>Santouri</album>
+			<trackNum>10</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Santouri/art.jpg</image>
+			<duration>217865</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Mohsen%20Chavoshi%20-%2007%20Motoasefam.mp3</location>
+			<title>Motoasefam</title>
+			<creator>Mohsen Chavoshi</creator>
+			<album>Santouri</album>
+			<trackNum>3</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Santouri/art.jpg</image>
+			<duration>242420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Mohsen%20Chavoshi%20-%20Ghalat%20Kardam.mp3</location>
+			<title>Ghalat Kardam</title>
+			<creator>Mohsen Chavoshi</creator>
+			<album>Man Khod Aan Sizdaham</album>
+			<trackNum>1</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Man%20Khod%20Aan%20Sizdaham/art.jpg</image>
+			<duration>268777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Shahram%20Solati%20-%20Deltang.mp3</location>
+			<title>Deltang</title>
+			<creator>Shahram Solati</creator>
+			<album>Hedyeh</album>
+			<trackNum>8</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Shahram%20Solati/Hedyeh/art.jpg</image>
+			<duration>311514</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+	</extension>
+</playlist>

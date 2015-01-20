@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Elaheye%20Naz.MP3</location>
+			<annotation>                              </annotation>
+			<duration>282032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Gasam.MP3</location>
+			<annotation>                              </annotation>
+			<duration>312670</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Hame%20Raftan.MP3</location>
+			<annotation>                              </annotation>
+			<duration>344746</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Moein%20-%20Bahaaneh.mp3</location>
+			<title>Bahaaneh</title>
+			<creator>Moein</creator>
+			<album>Parvaz</album>
+			<trackNum>1</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Moein/Parvaz/art.jpg</image>
+			<duration>251277</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Moien%20-%20Tolu.mp3</location>
+			<trackNum>8</trackNum>
+			<annotation>Aylar Music</annotation>
+			<duration>299763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/To.MP3</location>
+			<annotation>                              </annotation>
+			<duration>324592</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+	</extension>
+</playlist>
