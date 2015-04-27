@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Shamlu/%D8%B3%D9%83%D9%88%D8%AA%20%D8%B3%D8%B1%D8%B4%D8%A7%D8%B1%20%D8%A7%D8%B2%20%D9%86%D8%A7%DA%AF%D9%81%D8%AA%D9%87%20%D9%87%D8%A7%D8%B3%D8%AA%28%D9%85%D8%A7%D8%B1%DA%AF%D9%88%D8%AA%20%D8%A8%DB%8C%DA%A9%D9%84/01.%20Sokout%20Sarshar%20az%20Nagoftehast%20I.mp3</location>
+			<title>Sokout Sarshar az Nagoftehast I (shabzendeha.blogfa.com)</title>
+			<creator>Ahmad Shamlou</creator>
+			<album>Sokout Sarshar az Nagoftehast</album>
+			<trackNum>1</trackNum>
+			<annotation>(shabzendeha.blogfa.com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Ahmad%20Shamlou/Sokout%20Sarshar%20az%20Nagoftehast/art.jpg</image>
+			<duration>1633133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Shamlu/%D8%B3%D9%83%D9%88%D8%AA%20%D8%B3%D8%B1%D8%B4%D8%A7%D8%B1%20%D8%A7%D8%B2%20%D9%86%D8%A7%DA%AF%D9%81%D8%AA%D9%87%20%D9%87%D8%A7%D8%B3%D8%AA%28%D9%85%D8%A7%D8%B1%DA%AF%D9%88%D8%AA%20%D8%A8%DB%8C%DA%A9%D9%84/02.%20Sokout%20Sarshar%20az%20Nagoftehast%20II.mp3</location>
+			<title>Sokout Sarshar az Nagoftehast II (shabzendeha.blogfa.com)</title>
+			<creator>Ahmad Shamlou</creator>
+			<album>Sokout Sarshar az Nagoftehast</album>
+			<trackNum>2</trackNum>
+			<annotation>(shabzendeha.blogfa.com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Ahmad%20Shamlou/Sokout%20Sarshar%20az%20Nagoftehast/art.jpg</image>
+			<duration>1291987</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Shamlu/%D8%B3%D9%83%D9%88%D8%AA%20%D8%B3%D8%B1%D8%B4%D8%A7%D8%B1%20%D8%A7%D8%B2%20%D9%86%D8%A7%DA%AF%D9%81%D8%AA%D9%87%20%D9%87%D8%A7%D8%B3%D8%AA%28%D9%85%D8%A7%D8%B1%DA%AF%D9%88%D8%AA%20%D8%A8%DB%8C%DA%A9%D9%84/Favs.01.%20Sokout%20Sarshar%20az%20Nagoftehast%20I.mp3</location>
+			<duration>835239</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+	</extension>
+</playlist>

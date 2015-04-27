@@ -5,7 +5,7 @@
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Elaheye%20Naz.MP3</location>
 			<annotation>                              </annotation>
-			<duration>282032</duration>
+			<duration>282030</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
@@ -13,7 +13,7 @@
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Gasam.MP3</location>
 			<annotation>                              </annotation>
-			<duration>312670</duration>
+			<duration>312667</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>
@@ -21,7 +21,7 @@
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Hame%20Raftan.MP3</location>
 			<annotation>                              </annotation>
-			<duration>344746</duration>
+			<duration>344748</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 			</extension>
@@ -56,6 +56,18 @@
 				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Halgheh%20E%20Talaei.mp3</location>
+			<title>Halgheh E Talaei [www.Wikiseda.com] </title>
+			<creator>Halgheh E Talaei [www.Wikiseda.com] </creator>
+			<album>Tavalode Eshgh [www.Wikiseda.com] </album>
+			<annotation>::. www.Secret2Music.com .::</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Halgheh%20E%20Talaei%20%5Bwww.Wikiseda.com%5D_/Tavalode%20Eshgh%20%5Bwww.Wikiseda.com%5D_/art.jpg</image>
+			<duration>319461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 			<vlc:item tid="0"/>
@@ -64,5 +76,6 @@
 			<vlc:item tid="3"/>
 			<vlc:item tid="4"/>
 			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
 	</extension>
 </playlist>

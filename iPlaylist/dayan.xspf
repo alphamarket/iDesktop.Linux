@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/12%20Dayan%20-%20Hamin%20Harfa.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>206819</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Alcohol%20%28128%29.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>307678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Bargard%20Be%20In%20Khone%20%28128%29.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>278603</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Bebakhshid%20Engari%20Eshtebah%20Shod%20%5B128%5D.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>345296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Hale%20Man%20Khoob%20Nist%20%5B128%5D.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>234639</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Harfe%20Mardom%5B128%5D.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>263217</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Kaghaze%20Khat%20Khati%20%28128%29.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>220122</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Mano%20Yadet%20Miyad%20%5B128%5D.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>251253</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Nameh%20%28128%29.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>323430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+	</extension>
+</playlist>

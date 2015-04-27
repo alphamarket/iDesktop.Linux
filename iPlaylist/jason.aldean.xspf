@@ -345,7 +345,7 @@
 			<album>Wide Open</album>
 			<trackNum>6</trackNum>
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean_/Wide%20Open/art.jpg</image>
-			<duration>220947</duration>
+			<duration>220946</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>28</vlc:id>
 			</extension>
@@ -675,7 +675,7 @@
 			<creator>Jason Aldean</creator>
 			<album>Night Train</album>
 			<trackNum>7</trackNum>
-			<duration>187692</duration>
+			<duration>187694</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>56</vlc:id>
 			</extension>
@@ -780,6 +780,201 @@
 				<vlc:id>65</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/01%20Just%20Gettin%27%20Started.mp3</location>
+			<title>Just Gettin&#39; Started</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>1</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>195425</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/02%20Show%20You%20Off.mp3</location>
+			<title>Show You Off</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>2</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>188084</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/03%20Burnin%27%20It%20Down.mp3</location>
+			<title>Burnin&#39; It Down</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>3</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>219327</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/04%20Tryin%27%20To%20Love%20Me.mp3</location>
+			<title>Tryin&#39; To Love Me</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>4</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>225544</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/05%20Sweet%20Little%20Somethin%27.mp3</location>
+			<title>Sweet Little Somethin&#39;</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>5</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>204280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/06%20Laid%20Back.mp3</location>
+			<title>Laid Back</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>6</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>184061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/07%20Tonight%20Looks%20Good%20On%20You.mp3</location>
+			<title>Tonight Looks Good On You</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>7</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>231918</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/08%20Too%20Fast.mp3</location>
+			<title>Too Fast</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>8</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>202373</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/09%20If%20My%20Truck%20Could%20Talk.mp3</location>
+			<title>If My Truck Could Talk</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>9</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>210680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/10%20Old%20Boots%2C%20New%20Dirt.mp3</location>
+			<title>Old Boots, New Dirt</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>10</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>174004</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/11%20I%20Took%20It%20With%20Me.mp3</location>
+			<title>I Took It With Me</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>11</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>182494</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/12%20Don%27t%20Change%20Gone.mp3</location>
+			<title>Don&#39;t Change Gone</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>12</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>176120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/13%20Miss%20That%20Girl.mp3</location>
+			<title>Miss That Girl</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>13</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>176016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/14%20Gonna%20Know%20We%20Were%20Here.mp3</location>
+			<title>Gonna Know We Were Here</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>14</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>224056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Country/Jason%20Aldean%20%282005-2014%29/2014%20Old%20Boots%2C%20New%20Dirt/15%20Two%20Night%20Town.mp3</location>
+			<title>Two Night Town</title>
+			<creator>Jason Aldean</creator>
+			<album>Old Boots, New Dirt</album>
+			<trackNum>15</trackNum>
+			<annotation>Magical Sound!</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Jason%20Aldean/Old%20Boots%2C%20New%20Dirt/art</image>
+			<duration>200048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 			<vlc:item tid="0"/>
@@ -848,5 +1043,20 @@
 			<vlc:item tid="63"/>
 			<vlc:item tid="64"/>
 			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
 	</extension>
 </playlist>

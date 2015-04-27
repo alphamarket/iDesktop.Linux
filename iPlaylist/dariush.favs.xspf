@@ -97,6 +97,18 @@
 				<vlc:id>9</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dariush%20-%20Discography/%C2%A0.iGolchin/Dariush-Shabe-Akhar.mp3</location>
+			<title>Shabe Akhar</title>
+			<creator>Dariush</creator>
+			<album>Shabe Akhar Single</album>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dariush/Shabe%20Akhar%20Single/art.jpg</image>
+			<duration>272904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 			<vlc:item tid="0"/>
@@ -109,5 +121,6 @@
 			<vlc:item tid="7"/>
 			<vlc:item tid="8"/>
 			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
 	</extension>
 </playlist>

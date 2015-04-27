@@ -5,7 +5,7 @@
 		<track>
 			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Rafighe%20Ghosse.mp3</location>
 			<annotation>                              </annotation>
-			<duration>223173</duration>
+			<duration>223172</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
@@ -27,7 +27,7 @@
 			<album>Info.Toopmusic@gmail.com</album>
 			<annotation>Info.Toopmusic@gmail.com</annotation>
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dorit__Www.ToopMusic.In/Info.Toopmusic%40gmail.com/art.jpg</image>
-			<duration>234766</duration>
+			<duration>234765</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 			</extension>
@@ -136,26 +136,13 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/04-Hese%20Mobham%20%5B%20Exclusive%20TS%5D.mp3</location>
-			<title>Hese Mobham</title>
-			<creator>Googoosh [ Exclusive TS ]</creator>
-			<album>Ejaz  [ Exclusive TS]</album>
-			<trackNum>4</trackNum>
-			<annotation>TS</annotation>
-			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Googoosh%20%5B%20Exclusive%20TS%20%5D/Ejaz%20%20%5B%20Exclusive%20TS%5D/art.jpg</image>
-			<duration>290254</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
-			</extension>
-		</track>
-		<track>
 			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/06%20-%20Un%20To%20Nisty.mp3</location>
 			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
 			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
 			<annotation>Exclusive By Bivafa Va Man20</annotation>
-			<duration>241760</duration>
+			<duration>241761</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>14</vlc:id>
+				<vlc:id>13</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -167,14 +154,14 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Hamid%20Razavi%20%28%20Www.Ahanghaa20.Com%20%29/Marg%20e%20Ejbari%20%28%20Www.Ahanghaa20.Com%20%29/art.jpg</image>
 			<duration>213739</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
+				<vlc:id>14</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/07___TRACK.MP3</location>
 			<duration>245397</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>16</vlc:id>
+				<vlc:id>15</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -185,7 +172,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Bivafa_Va_Parsa20%40Yahoo.Com/Parsa%20_0914%20349%202797_%20Bivafa/art.jpg</image>
 			<duration>204946</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
+				<vlc:id>16</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -193,7 +180,7 @@
 			<trackNum>12</trackNum>
 			<duration>227061</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>18</vlc:id>
+				<vlc:id>17</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -205,7 +192,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Arsalan/Jadeh%20Single/art.jpg</image>
 			<duration>207782</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>19</vlc:id>
+				<vlc:id>18</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -217,7 +204,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Ehsan%20Khajehamiri/Naborde%20Ranj%20Single/art.jpg</image>
 			<duration>49239</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>20</vlc:id>
+				<vlc:id>19</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -228,7 +215,7 @@
 			<annotation>[wWw.MyFaza2Music.com]</annotation>
 			<duration>285469</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>21</vlc:id>
+				<vlc:id>20</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -238,7 +225,7 @@
 			<album>Unknown Album</album>
 			<duration>253369</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>22</vlc:id>
+				<vlc:id>21</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -250,7 +237,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mehran%20Atash/Ba%20Man%20Ghadam%20Bezan%20Single/art.jpg</image>
 			<duration>239417</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>23</vlc:id>
+				<vlc:id>22</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -263,7 +250,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Santouri/art.jpg</image>
 			<duration>217865</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>24</vlc:id>
+				<vlc:id>23</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -276,7 +263,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Santouri/art.jpg</image>
 			<duration>242420</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>25</vlc:id>
+				<vlc:id>24</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -289,7 +276,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Man%20Khod%20Aan%20Sizdaham/art.jpg</image>
 			<duration>268777</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>26</vlc:id>
+				<vlc:id>25</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -302,7 +289,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Shahram%20Solati/Hedyeh/art.jpg</image>
 			<duration>311514</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>27</vlc:id>
+				<vlc:id>26</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -334,6 +321,5 @@
 			<vlc:item tid="24"/>
 			<vlc:item tid="25"/>
 			<vlc:item tid="26"/>
-			<vlc:item tid="27"/>
 	</extension>
 </playlist>

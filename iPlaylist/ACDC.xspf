@@ -1,0 +1,1977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1974%20High%20Voltage%20%28Australian%20Editions%29%20%40320/01%20Baby%2C%20Please%20Don%27t%20Go.mp3</location>
+			<title>01 Baby, Please Don&#39;t Go</title>
+			<creator>Ac/dc</creator>
+			<album>1974-High Voltage</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>290876</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1974%20High%20Voltage%20%28Australian%20Editions%29%20%40320/02%20She%27s%20Got%20Balls.mp3</location>
+			<title>02 She&#39;s Got Balls</title>
+			<creator>Ac/dc</creator>
+			<album>1974-High Voltage</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>288342</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1974%20High%20Voltage%20%28Australian%20Editions%29%20%40320/03%20Little%20Lover.mp3</location>
+			<title>03 Little Lover</title>
+			<creator>Ac/dc</creator>
+			<album>1974-High Voltage</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>338941</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1974%20High%20Voltage%20%28Australian%20Editions%29%20%40320/04%20Stick%20Around.mp3</location>
+			<title>04 Stick Around</title>
+			<creator>Ac/dc</creator>
+			<album>1974-High Voltage</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>279435</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1974%20High%20Voltage%20%28Australian%20Editions%29%20%40320/05%20Soul%20Stripper.mp3</location>
+			<title>05 Soul Stripper</title>
+			<creator>Ac/dc</creator>
+			<album>1974-High Voltage</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>385257</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1974%20High%20Voltage%20%28Australian%20Editions%29%20%40320/06%20You%20Ain%27t%20Got%20A%20Hold%20On%20Me.mp3</location>
+			<title>06 You Ain&#39;t Got A Hold On Me</title>
+			<creator>Ac/dc</creator>
+			<album>1974-High Voltage</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>213240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1974%20High%20Voltage%20%28Australian%20Editions%29%20%40320/07%20Love%20Song.mp3</location>
+			<title>07 Love Song</title>
+			<creator>Ac/dc</creator>
+			<album>1974-High Voltage</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>317913</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1974%20High%20Voltage%20%28Australian%20Editions%29%20%40320/08%20Show%20Business.mp3</location>
+			<title>08 Show Business</title>
+			<creator>Ac/dc</creator>
+			<album>1974-High Voltage</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>286409</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/01%20It%27s%20A%20Long%20Way%20To%20The%20Top%20%28If%20You%20Wanna%20Rock%27n%27roll%29.mp3</location>
+			<title>01 It&#39;s A Long Way To The Top (If You Wanna Rock&#39;n&#39;roll)</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>315745</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/02%20Rock%27n%27roll%20Singer.mp3</location>
+			<title>02 Rock&#39;n&#39;roll Singer</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>304068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/03%20The%20Jack.mp3</location>
+			<title>03 The Jack</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>351898</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/04%20Live%20Wire.mp3</location>
+			<title>04 Live Wire</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>350070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/05%20T.N.T..mp3</location>
+			<title>05 T.N.T.</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>214599</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/06%20Rocker.mp3</location>
+			<title>06 Rocker</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>169746</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/07%20Can%20I%20Sit%20Next%20To%20You%20Girl.mp3</location>
+			<title>07 Can I Sit Next To You Girl</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>251901</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/08%20High%20Voltage.mp3</location>
+			<title>08 High Voltage</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>242419</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1975%20T.N.T%20%28Australian%20Editions%29%20%40320/09%20School%20Days.mp3</location>
+			<title>09 School Days</title>
+			<creator>Ac/dc</creator>
+			<album>1975-T.N.T.</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>323242</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/01%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap.mp3</location>
+			<title>Dirty Deeds Done Dirt Cheap</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>1</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>254024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/02%20-%20Ain%27t%20No%20Fun%20%28Waiting%20%27round%20To%20Be%20A%20Millionaire%29.mp3</location>
+			<title>Ain&#39;t No Fun (Waiting &#39;round To Be A Millionaire)</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>2</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>450753</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/03%20-%20There%27s%20Gonna%20Be%20Some%20Rockin%27.mp3</location>
+			<title>There&#39;s Gonna Be Some Rockin&#39;</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>3</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>198226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/04%20-%20Problem%20Child.mp3</location>
+			<title>Problem Child</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>4</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>349579</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/05%20-%20Squealer.mp3</location>
+			<title>Squealer</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>5</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>318206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/06%20-%20Big%20Balls.mp3</location>
+			<title>Big Balls</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>6</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>158911</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/07%20-%20R.I.P.%20%28Rock%20In%20Peace%29.mp3</location>
+			<title>R.I.P. (Rock In Peace)</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>7</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>215154</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/08%20-%20Ride%20On.mp3</location>
+			<title>Ride On</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>8</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>351277</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1976%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20%28Australian%20Relise%20Only%29%20%40320/09%20-%20Jailbreak.mp3</location>
+			<title>Jailbreak</title>
+			<creator>AC/DC</creator>
+			<album>Dirty Deeds Done Dirt Cheap [Australian Relise Only]</album>
+			<trackNum>9</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>281896</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1977%20Let%20There%20Be%20Rock%20%28Australian%20Editions%29%20%40320/01%20Go%20Down.mp3</location>
+			<title>01 Go Down</title>
+			<creator>Ac/dc</creator>
+			<album>1977-Let There Be Rock</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>330714</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1977%20Let%20There%20Be%20Rock%20%28Australian%20Editions%29%20%40320/02%20Dog%20Eat%20Dog.mp3</location>
+			<title>02 Dog Eat Dog</title>
+			<creator>Ac/dc</creator>
+			<album>1977-Let There Be Rock</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>214964</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1977%20Let%20There%20Be%20Rock%20%28Australian%20Editions%29%20%40320/03%20Let%20There%20Be%20Rock.mp3</location>
+			<title>03 Let There Be Rock</title>
+			<creator>Ac/dc</creator>
+			<album>1977-Let There Be Rock</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>367050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1977%20Let%20There%20Be%20Rock%20%28Australian%20Editions%29%20%40320/04%20Bad%20Boy%20Boogie.mp3</location>
+			<title>04 Bad Boy Boogie</title>
+			<creator>Ac/dc</creator>
+			<album>1977-Let There Be Rock</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>267288</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1977%20Let%20There%20Be%20Rock%20%28Australian%20Editions%29%20%40320/05%20Overdose.mp3</location>
+			<title>05 Overdose</title>
+			<creator>Ac/dc</creator>
+			<album>1977-Let There Be Rock</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>369219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1977%20Let%20There%20Be%20Rock%20%28Australian%20Editions%29%20%40320/06%20Crabsody%20In%20Blue.mp3</location>
+			<title>06 Crabsody In Blue</title>
+			<creator>Ac/dc</creator>
+			<album>1977-Let There Be Rock</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>283640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1977%20Let%20There%20Be%20Rock%20%28Australian%20Editions%29%20%40320/07%20Hell%20Ain%27t%20A%20Bad%20Place%20To%20Be.mp3</location>
+			<title>07 Hell Ain&#39;t A Bad Place To Be</title>
+			<creator>Ac/dc</creator>
+			<album>1977-Let There Be Rock</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>253626</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1977%20Let%20There%20Be%20Rock%20%28Australian%20Editions%29%20%40320/08%20Whole%20Lotta%20Rosie.mp3</location>
+			<title>08 Whole Lotta Rosie</title>
+			<creator>Ac/dc</creator>
+			<album>1977-Let There Be Rock</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>324652</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/01%20Rock%27n%27roll%20Damnation.mp3</location>
+			<title>01 Rock&#39;n&#39;roll Damnation</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>217237</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/02%20Down%20Payment%20Blues.mp3</location>
+			<title>02 Down Payment Blues</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>364045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/03%20Gimme%20A%20Bullet.mp3</location>
+			<title>03 Gimme A Bullet</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>201851</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/04%20Riff%20Raff.mp3</location>
+			<title>04 Riff Raff</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>312271</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/05%20Sin%20City.mp3</location>
+			<title>05 Sin City</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>285469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/06%20What%27s%20Next%20To%20The%20Moon.mp3</location>
+			<title>06 What&#39;s Next To The Moon</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>211908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/07%20Gone%20Shootin%27.mp3</location>
+			<title>07 Gone Shootin&#39;</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>305870</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/08%20Up%20To%20My%20Neck%20In%20You.mp3</location>
+			<title>08 Up To My Neck In You</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>253678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1978%20Powerage%20%28Australian%20Editions%29%20%40320/09%20Kicked%20In%20The%20Teeth.mp3</location>
+			<title>09 Kicked In The Teeth</title>
+			<creator>Ac/dc</creator>
+			<album>1978-Powerage</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>233668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/01%20Highway%20To%20Hell.mp3</location>
+			<title>01 Highway To Hell</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>208042</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/02%20Girls%20Got%20Rhythm.mp3</location>
+			<title>02 Girls Got Rhythm</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>203627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/03%20Walk%20All%20Over%20You.mp3</location>
+			<title>03 Walk All Over You</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>309658</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/04%20Touch%20Too%20Much.mp3</location>
+			<title>04 Touch Too Much</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>266164</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/05%20Beating%20Around%20The%20Bush.mp3</location>
+			<title>05 Beating Around The Bush</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>236072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/06%20Shot%20Down%20In%20Flames.mp3</location>
+			<title>06 Shot Down In Flames</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>202608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/07%20Get%20It%20Hot.mp3</location>
+			<title>07 Get It Hot</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>154491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/08%20If%20You%20Want%20Blood%20%28You%27ve%20Got%20It%29.mp3</location>
+			<title>08 If You Want Blood (You&#39;ve Got It)</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>276692</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/09%20Love%20Hungry%20Man.mp3</location>
+			<title>09 Love Hungry Man</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>256943</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1979%20Highway%20To%20Hell%20%28Australian%20Editions%29%20%40320/10%20Night%20Prowler.mp3</location>
+			<title>10 Night Prowler</title>
+			<creator>Ac/dc</creator>
+			<album>1979-Highway To Hell</album>
+			<trackNum>10</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>375617</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/01%20Hells%20Bells.mp3</location>
+			<title>01 Hells Bells</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>312427</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/02%20Shoot%20To%20Thrill.mp3</location>
+			<title>02 Shoot To Thrill</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>318279</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/03%20What%20Do%20You%20Do%20For%20Money%20Honey.mp3</location>
+			<title>03 What Do You Do For Money Honey</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>215905</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/04%20Giving%20The%20Dog%20A%20Bone.mp3</location>
+			<title>04 Giving The Dog A Bone</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>212378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/05%20Let%20Me%20Put%20My%20Love%20Into%20You.mp3</location>
+			<title>05 Let Me Put My Love Into You</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>255088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/06%20Back%20In%20Black.mp3</location>
+			<title>06 Back In Black</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>256081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/07%20You%20Shook%20Me%20All%20Night%20Long.mp3</location>
+			<title>07 You Shook Me All Night Long</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>210419</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/08%20Have%20A%20Drink%20On%20Me.mp3</location>
+			<title>08 Have A Drink On Me</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>239310</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/09%20Shake%20A%20Leg.mp3</location>
+			<title>09 Shake A Leg</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>246181</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1980%20Back%20In%20Black%20%28Australian%20Editions%29%20%40320/10%20Rock%27n%27%20Roll%20Ain%27t%20Noise%20Pollution.mp3</location>
+			<title>10 Rock&#39;n&#39; Roll Ain&#39;t Noise Pollution</title>
+			<creator>AC/DC</creator>
+			<album>1980-Back In Black</album>
+			<trackNum>10</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>254305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/01%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29.mp3</location>
+			<title>01 For Those About To Rock (We Salute You)</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>344009</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/02%20Put%20The%20Finger%20On%20You.mp3</location>
+			<title>02 Put The Finger On You</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>205403</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/03%20Let%27s%20Get%20It%20Up.mp3</location>
+			<title>03 Let&#39;s Get It Up</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>233643</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/04%20Inject%20The%20Venom.mp3</location>
+			<title>04 Inject The Venom</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>210863</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/05%20Snowballed.mp3</location>
+			<title>05 Snowballed</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>203079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/06%20Evil%20Walks.mp3</location>
+			<title>06 Evil Walks</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>263421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/07%20C.O.D..mp3</location>
+			<title>07 C.O.D.</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>199735</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/08%20Breaking%20The%20Rules.mp3</location>
+			<title>08 Breaking The Rules</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>263239</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/09%20Night%20Of%20The%20Long%20Knives.mp3</location>
+			<title>09 Night Of The Long Knives</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>205926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1981%20For%20Those%20About%20To%20Rock%20%28We%20Salute%20You%29%28Australian%20Editions%29%20%40320/10%20Spellbound.mp3</location>
+			<title>10 Spellbound</title>
+			<creator>Ac/dc</creator>
+			<album>1981-For Those About To Rock (We Salute You)</album>
+			<trackNum>10</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>269821</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/01%20Rising%20Power.mp3</location>
+			<title>01 Rising Power</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>224238</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/02%20This%20House%20Is%20On%20Fire.mp3</location>
+			<title>02 This House Is On Fire</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>205247</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/03%20Flick%20Of%20The%20Switch.mp3</location>
+			<title>03 Flick Of The Switch</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>194145</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/04%20Nervous%20Shakedown.mp3</location>
+			<title>04 Nervous Shakedown</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>267967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/05%20Landslide.mp3</location>
+			<title>05 Landslide</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>237064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/06%20Guns%20For%20Hire.mp3</location>
+			<title>06 Guns For Hire</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>205482</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/07%20Deep%20In%20The%20Hole.mp3</location>
+			<title>07 Deep In The Hole</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>200048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/08%20Bedlam%20In%20Belgium.mp3</location>
+			<title>08 Bedlam In Belgium</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>232780</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/09%20Badlands.mp3</location>
+			<title>09 Badlands</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>219144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1983%20Flick%20Of%20The%20Switch%20%28Australian%20Editions%29%20%40320/10%20Brain%20Shake.mp3</location>
+			<title>10 Brain Shake</title>
+			<creator>Ac/dc</creator>
+			<album>1983-Flick Of The Switch</album>
+			<trackNum>10</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>241740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/01%20Fly%20On%20The%20Wall.mp3</location>
+			<title>01 Fly On The Wall</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>224186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/02%20Shake%20Your%20Foundations.mp3</location>
+			<title>02 Shake Your Foundations</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>250595</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/03%20First%20Blood.mp3</location>
+			<title>03 First Blood</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>225806</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/04%20Danger.mp3</location>
+			<title>04 Danger</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>262586</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/05%20Sink%20The%20Pink.mp3</location>
+			<title>05 Sink The Pink</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>254827</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/06%20Playing%20With%20Girls.mp3</location>
+			<title>06 Playing With Girls</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>225074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/07%20Stand%20Up.mp3</location>
+			<title>07 Stand Up</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>232989</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/08%20Hell%20Or%20High%20Water.mp3</location>
+			<title>08 Hell Or High Water</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>272042</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/09%20Back%20In%20Business.mp3</location>
+			<title>09 Back In Business</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>264075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1985%20Fly%20On%20The%20Wall%20%28Australian%20Editions%29%20%40320/10%20Send%20For%20The%20Man.mp3</location>
+			<title>10 Send For The Man</title>
+			<creator>Ac/dc</creator>
+			<album>1985-Fly On The Wall</album>
+			<trackNum>10</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>205848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/01%20Heatseeker.mp3</location>
+			<title>01 Heatseeker</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>231474</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/02%20That%27s%20The%20Way%20I%20Wanna%20Rock%27n%27roll.mp3</location>
+			<title>02 That&#39;s The Way I Wanna Rock&#39;n&#39;roll</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>225779</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/03%20Meanstreak.mp3</location>
+			<title>03 Meanstreak</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>249420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/04%20Go%20Zone.mp3</location>
+			<title>04 Go Zone</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>267157</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/05%20Kissin%27%20Dynamite.mp3</location>
+			<title>05 Kissin&#39; Dynamite</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>239284</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/06%20Nick%20Of%20Time.mp3</location>
+			<title>06 Nick Of Time</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>258484</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/07%20Some%20Sin%20For%20Nuthin%27.mp3</location>
+			<title>07 Some Sin For Nuthin&#39;</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>252006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/08%20Ruff%20Stuff.mp3</location>
+			<title>08 Ruff Stuff</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>270422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/09%20Two%27s%20Up.mp3</location>
+			<title>09 Two&#39;s Up</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>321648</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1988%20Blow%20Up%20Your%20Video%20%28Australian%20Editions%29%20%40320/10%20This%20Means%20War.mp3</location>
+			<title>10 This Means War</title>
+			<creator>Ac/dc</creator>
+			<album>1988-Blow Up Your Video</album>
+			<trackNum>10</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>264231</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/01%20Thunderstruck.mp3</location>
+			<title>01 Thunderstruck</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>1</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>293018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/02%20Fire%20Your%20Guns.mp3</location>
+			<title>02 Fire Your Guns</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>2</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>173978</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/03%20Moneytalks.mp3</location>
+			<title>03 Moneytalks</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>3</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>226067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/04%20The%20Razor%27s%20Edge.mp3</location>
+			<title>04 The Razor&#39;s Edge</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>4</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>262586</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/05%20Mistress%20For%20Christmas.mp3</location>
+			<title>05 Mistress For Christmas</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>5</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>239598</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/06%20Rock%20Your%20Heart%20Out.mp3</location>
+			<title>06 Rock Your Heart Out</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>6</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>246808</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/07%20Are%20You%20Ready.mp3</location>
+			<title>07 Are You Ready</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>7</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>250413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/08%20Got%20You%20By%20The%20Balls.mp3</location>
+			<title>08 Got You By The Balls</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>8</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>270292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/09%20Shot%20Of%20Love.mp3</location>
+			<title>09 Shot Of Love</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>9</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>236515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/10%20Let%27s%20Make%20It.mp3</location>
+			<title>10 Let&#39;s Make It</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>10</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>212405</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/11%20Goodbye%20And%20Good%20Riddance%20To%20Bad%20Luck.mp3</location>
+			<title>11 Goodbye And Good Riddance To Bad Luck</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>11</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>193727</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1990%20The%20Razor%27s%20Edge%20%28Australian%20Editions%29%20%40320/12%20If%20You%20Dare.mp3</location>
+			<title>12 If You Dare</title>
+			<creator>Ac/dc</creator>
+			<album>1990-The Razor&#39;s Edge</album>
+			<trackNum>12</trackNum>
+			<annotation>Australian Edition</annotation>
+			<duration>189704</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/01%20-%20Hard%20As%20A%20Rock.mp3</location>
+			<title>Hard As A Rock</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>1</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>271625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/02%20-%20Cover%20You%20In%20Oil.mp3</location>
+			<title>Cover You In Oil</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>2</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>272461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/03%20-%20The%20Furor.mp3</location>
+			<title>The Furor</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>3</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>251119</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/04%20-%20Boogie%20Man.mp3</location>
+			<title>Boogie Man</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>4</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>247279</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/05%20-%20The%20Honey%20Roll.mp3</location>
+			<title>The Honey Roll</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>5</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>334188</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/06%20-%20Burnin%27%20Alive.mp3</location>
+			<title>Burnin&#39; Alive</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>6</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>306263</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/07%20-%20Hail%20Caesar.mp3</location>
+			<title>Hail Caesar</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>7</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>314440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/08%20-%20Love%20Bomb.mp3</location>
+			<title>Love Bomb</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>8</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>194199</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/09%20-%20Caught%20With%20Your%20Pants%20Down.mp3</location>
+			<title>Caught With Your Pants Down</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>9</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>254594</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/10%20-%20Whiskey%20On%20The%20Rocks.mp3</location>
+			<title>Whiskey On The Rocks</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>10</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>275178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/1995%20Ballbreaker%20%40320/11%20-%20Ballbreaker.mp3</location>
+			<title>Ballbreaker</title>
+			<creator>AC/DC</creator>
+			<album>Ballbreaker</album>
+			<trackNum>11</trackNum>
+			<annotation>SMaiklS Collection</annotation>
+			<duration>272148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/01.%20Stiff%20Upper%20Lip.mp3</location>
+			<title>Stiff Upper Lip</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>1</trackNum>
+			<duration>215017</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/02.%20Meltdown.mp3</location>
+			<title>Meltdown</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>2</trackNum>
+			<duration>221312</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/03.%20House%20Of%20Jazz.mp3</location>
+			<title>House Of Jazz</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>3</trackNum>
+			<duration>236489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/04.%20Hold%20Me%20Back.mp3</location>
+			<title>Hold Me Back</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>4</trackNum>
+			<duration>239180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/05.%20Safe%20In%20New%20York%20City.mp3</location>
+			<title>Safe In New York City</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>5</trackNum>
+			<duration>239651</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/06.%20Can%27t%20Stand%20Still.mp3</location>
+			<title>Can&#39;t Stand Still</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>6</trackNum>
+			<duration>221599</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/07.%20Can%27t%20Stop%20Rock%20%27N%27%20Roll.mp3</location>
+			<title>Can&#39;t Stop Rock &#39;N&#39; Roll</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>7</trackNum>
+			<duration>242079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/08.%20Satellite%20Blues.mp3</location>
+			<title>Satellite Blues</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>8</trackNum>
+			<duration>226719</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/09.%20Damned.mp3</location>
+			<title>Damned</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>9</trackNum>
+			<duration>232048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/10.%20Come%20And%20Get%20It.mp3</location>
+			<title>Come And Get It</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>10</trackNum>
+			<duration>242837</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/11.%20All%20Screwed%20Up.mp3</location>
+			<title>All Screwed Up</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>11</trackNum>
+			<duration>276613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2000%20Stiff%20Upper%20Lip%20%40320/12.%20Give%20It%20Up.mp3</location>
+			<title>Give It Up</title>
+			<creator>AC/DC</creator>
+			<album>Stiff Upper Lip</album>
+			<trackNum>12</trackNum>
+			<duration>233250</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/01.%20Rock%20N%27%20Roll%20Train.mp3</location>
+			<title>Rock N&#39; Roll Train</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>1</trackNum>
+			<duration>261567</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/02.%20Skies%20On%20Fire.mp3</location>
+			<title>Skies On Fire</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>2</trackNum>
+			<duration>214234</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/03.%20Big%20Jack.mp3</location>
+			<title>Big Jack</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>3</trackNum>
+			<duration>237116</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/04.%20Anything%20Goes.mp3</location>
+			<title>Anything Goes</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>4</trackNum>
+			<duration>202217</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/05.%20War%20Machine.mp3</location>
+			<title>War Machine</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>5</trackNum>
+			<duration>189835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/06.%20Smash%20N%27%20Grab.mp3</location>
+			<title>Smash N&#39; Grab</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>6</trackNum>
+			<duration>246468</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/07.%20Spoilin%27%20For%20A%20Fight.mp3</location>
+			<title>Spoilin&#39; For A Fight</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>7</trackNum>
+			<duration>197123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/08.%20Wheels.mp3</location>
+			<title>Wheels</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>8</trackNum>
+			<duration>208538</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/09.%20Decibel.mp3</location>
+			<title>Decibel</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>9</trackNum>
+			<duration>213946</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/10.%20Stormy%20May%20Day.mp3</location>
+			<title>Stormy May Day</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>10</trackNum>
+			<duration>190279</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/11.%20She%20Likes%20Rock%20N%27%20Roll.mp3</location>
+			<title>She Likes Rock N&#39; Roll</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>11</trackNum>
+			<duration>232989</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/12.%20Money%20Made.mp3</location>
+			<title>Money Made</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>12</trackNum>
+			<duration>255506</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/13.%20Rock%20N%27%20Roll%20Dream.mp3</location>
+			<title>Rock N&#39; Roll Dream</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>13</trackNum>
+			<duration>280950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/14.%20Rockin%27%20All%20The%20Way.mp3</location>
+			<title>Rockin&#39; All The Way</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>14</trackNum>
+			<duration>202556</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/1%20Studio%20albums/2008%20Black%20Ice%20%40320/15.%20Black%20Ice.mp3</location>
+			<title>Black Ice</title>
+			<creator>AC/DC</creator>
+			<album>Black Ice</album>
+			<trackNum>15</trackNum>
+			<duration>205168</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/dariush/Music/ACDC%20-%20Discography%201974-2009%20Mp3%20320%20kbps/~uTorrentPartFile_28585F8AC.dat</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+			<vlc:item tid="124"/>
+			<vlc:item tid="125"/>
+			<vlc:item tid="126"/>
+			<vlc:item tid="127"/>
+			<vlc:item tid="128"/>
+			<vlc:item tid="129"/>
+			<vlc:item tid="130"/>
+			<vlc:item tid="131"/>
+			<vlc:item tid="132"/>
+			<vlc:item tid="133"/>
+			<vlc:item tid="134"/>
+			<vlc:item tid="135"/>
+			<vlc:item tid="136"/>
+			<vlc:item tid="137"/>
+			<vlc:item tid="138"/>
+			<vlc:item tid="139"/>
+			<vlc:item tid="140"/>
+			<vlc:item tid="141"/>
+			<vlc:item tid="142"/>
+			<vlc:item tid="143"/>
+			<vlc:item tid="144"/>
+			<vlc:item tid="145"/>
+			<vlc:item tid="146"/>
+			<vlc:item tid="147"/>
+			<vlc:item tid="148"/>
+			<vlc:item tid="149"/>
+			<vlc:item tid="150"/>
+			<vlc:item tid="151"/>
+			<vlc:item tid="152"/>
+			<vlc:item tid="153"/>
+	</extension>
+</playlist>
