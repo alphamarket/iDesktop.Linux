@@ -17,52 +17,45 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Lights/Sad%20Sounds/God%20Knows%20%28Piano%20Version%29.M4A</location>
-			<duration>347509</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-			</extension>
-		</track>
-		<track>
 			<location>file:///media/dariush/Files/Musics/Lights/Sad%20Sounds/Kiss%20The%20Rain.M4A</location>
 			<duration>253004</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
+				<vlc:id>2</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Lights/Sad%20Sounds/Melody.M4A</location>
 			<duration>135582</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
+				<vlc:id>3</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Lights/Sad%20Sounds/Parting%20Song.M4A</location>
 			<duration>124111</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
+				<vlc:id>4</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Lights/Sad%20Sounds/Sad%20piano.M4A</location>
 			<duration>252239</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
+				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Lights/Sad%20Sounds/Sad%20Violin%20%5BHQ%5D.M4A</location>
 			<duration>276155</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
+				<vlc:id>6</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Lights/Sad%20Sounds/Very%20Sad%20Piano%20Music%20%28Original%29%20-%20by%20Roy%20Todd.M4A</location>
 			<duration>205473</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
+				<vlc:id>7</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -75,6 +68,5 @@
 			<vlc:item tid="5"/>
 			<vlc:item tid="6"/>
 			<vlc:item tid="7"/>
-			<vlc:item tid="8"/>
 	</extension>
 </playlist>

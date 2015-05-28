@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/dariush/Downloads/Eshghe-Talkh.mp3</location>
+			<title>Eshghe Talkh</title>
+			<creator>Sarnevesht</creator>
+			<album>ZAHRE HASRAT</album>
+			<trackNum>2</trackNum>
+			<annotation>radiobaran.ir</annotation>
+			<duration>497749</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/songs/Amir%20Tajik%20-%20Delam%20Az%20Rah%20Pore.mp3</location>
+			<title>Amir Tajik - Delam Az Rah Pore</title>
+			<creator>Amir Tajik WwW.Pop-Music.Ir</creator>
+			<album>Delam Az Rah Pore WwW.Pop-Music.Ir</album>
+			<annotation>WwW.Pop-Music.Ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Amir%20Tajik%20WwW.Pop-Music.Ir/Delam%20Az%20Rah%20Pore%20WwW.Pop-Music.Ir/art.jpg</image>
+			<duration>221983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/songs/Milad%20Babaei%20-%20Delam%20Aghaz%20Mikhahad.mp3</location>
+			<title>Delam Aghaz Mikhahad</title>
+			<creator>Milad Babaei</creator>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/32f47138a73ece0c4280a844a7ae44f8/art.jpg</image>
+			<duration>204679</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+	</extension>
+</playlist>

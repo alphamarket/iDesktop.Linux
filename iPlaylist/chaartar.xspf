@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/01.%20Ashoobam.mp3</location>
+			<title>Ashoobam</title>
+			<creator>Chaartaar [ BaharMusic.Com ]</creator>
+			<album>Baran Toee [ BaharMusic.Com ]</album>
+			<trackNum>1</trackNum>
+			<annotation>[ BaharMusic.Com ]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5B%20BaharMusic.Com%20%5D/Baran%20Toee%20%5B%20BaharMusic.Com%20%5D/art.jpg</image>
+			<duration>289126</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/02.%20Mara%20Be%20Khaterat%20Negah%20Dar.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>204173</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/03.%20Hendeseh.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>250172</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/04.%20Baran%20Toee.mp3</location>
+			<title>Baran Toee</title>
+			<creator>Chaartaar [ BaharMusic.Com ]</creator>
+			<album>Baran Toee [ BaharMusic.Com ]</album>
+			<trackNum>4</trackNum>
+			<annotation>[ BaharMusic.Com ]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5B%20BaharMusic.Com%20%5D/Baran%20Toee%20%5B%20BaharMusic.Com%20%5D/art.jpg</image>
+			<duration>229123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/05.%20Zane%20Divaneh.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>228179</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/06.%20Kalagh.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>220160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/07.%20Asheghaneh%20Tanhast.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>227160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/08.%20Harfi%20Bezan.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>222171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/09.%20Khosha%20Be%20Man.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>186174</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/10.%20Shabihe%20Yek%20Mordaab.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>224156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/11.%20Dar%20Hasrate%20Mah.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>239126</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/12.%20Ghatar%20%28Chaartaar%29.mp3</location>
+			<creator>Chaartaar [Nex1Music.Com]</creator>
+			<album>Baran Toee [Nex1Music.Com]</album>
+			<annotation>[Nex1Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
+			<duration>240169</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+	</extension>
+</playlist>
