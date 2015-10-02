@@ -119,6 +119,18 @@
 				<vlc:id>8</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Sargijeh%20(320).mp3</location>
+			<title>Sargijeh</title>
+			<creator>Dayan</creator>
+			<album>[ MusicMa.Ir ]</album>
+			<annotation>[ MusicMa.Ir ]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/%5B%20MusicMa.Ir%20%5D/art.jpg</image>
+			<duration>235706</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 			<vlc:item tid="0"/>
@@ -130,5 +142,6 @@
 			<vlc:item tid="6"/>
 			<vlc:item tid="7"/>
 			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
 	</extension>
 </playlist>

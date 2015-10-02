@@ -3,7 +3,7 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Eshgh.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Eshgh.mp3</location>
 			<title>Eshgh</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
@@ -13,7 +13,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20ft.%20Ehsan_Afshari%20-%202%20dar%201.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20ft.%20Ehsan_Afshari%20-%202%20dar%201.mp3</location>
 			<title>2 dar 1</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
@@ -24,7 +24,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Ham%20Marg.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Ham%20Marg.mp3</location>
 			<title>Ham Marg</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
@@ -34,7 +34,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Madar%20moraba.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Madar%20moraba.mp3</location>
 			<title>Madare Moraba</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
@@ -44,7 +44,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Madian.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Madian.mp3</location>
 			<title>Madian</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
@@ -55,7 +55,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Otagh.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Otagh.mp3</location>
 			<title>Otagh</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
@@ -67,47 +67,59 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Tomor%200.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Sahneh.mp3</location>
+			<title>Sahneh</title>
+			<creator>Alireza Azar (www.Act-Music.org)</creator>
+			<album>(www.Act-Music.org) </album>
+			<annotation>(www.Act-Music.org)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alireza%20Azar%20%28www.Act-Music.org%29/%28www.Act-Music.org%29_/art.jpg</image>
+			<duration>910058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Tomor%200.mp3</location>
 			<title>Tomor 0</title>
 			<creator>Alireza Azar</creator>
 			<album>Tomor</album>
 			<annotation>                              </annotation>
 			<duration>658609</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
+				<vlc:id>7</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Tomor%201.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Tomor%201.mp3</location>
 			<title>Tomor 1</title>
 			<creator>Alireza Azar</creator>
 			<album>Tomor</album>
 			<annotation>                            </annotation>
 			<duration>520302</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
+				<vlc:id>8</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Tomor%202.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Tomor%202.mp3</location>
 			<title>Tomor 2</title>
 			<creator>Alireza Azar</creator>
 			<album>Tomor</album>
 			<annotation>                              </annotation>
 			<duration>531210</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
+				<vlc:id>9</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Tomor%203.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/Alireza%20Azar%20-%20Tomor%203.mp3</location>
 			<title>Tomor 3</title>
 			<creator>Alireza Azar</creator>
 			<album>Tomor</album>
 			<annotation>                              </annotation>
 			<duration>534383</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
+				<vlc:id>10</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -122,5 +134,6 @@
 			<vlc:item tid="7"/>
 			<vlc:item tid="8"/>
 			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
 	</extension>
 </playlist>
