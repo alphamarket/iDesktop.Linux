@@ -3,7 +3,7 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/01.%20Ashoobam.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/01.%20Ashoobam.mp3</location>
 			<title>Ashoobam</title>
 			<creator>Chaartaar [ BaharMusic.Com ]</creator>
 			<album>Baran Toee [ BaharMusic.Com ]</album>
@@ -16,7 +16,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/02.%20Mara%20Be%20Khaterat%20Negah%20Dar.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/02.%20Mara%20Be%20Khaterat%20Negah%20Dar.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -27,18 +27,18 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/03.%20Hendeseh.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/03.%20Hendeseh.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%5BNex1Music.Com%5D/Baran%20Toee%20%5BNex1Music.Com%5D/art.jpg</image>
-			<duration>250172</duration>
+			<duration>250174</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/04.%20Baran%20Toee.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/04.%20Baran%20Toee.mp3</location>
 			<title>Baran Toee</title>
 			<creator>Chaartaar [ BaharMusic.Com ]</creator>
 			<album>Baran Toee [ BaharMusic.Com ]</album>
@@ -51,7 +51,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/05.%20Zane%20Divaneh.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/05.%20Zane%20Divaneh.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -62,7 +62,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/06.%20Kalagh.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/06.%20Kalagh.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -73,7 +73,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/07.%20Asheghaneh%20Tanhast.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/07.%20Asheghaneh%20Tanhast.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -84,7 +84,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/08.%20Harfi%20Bezan.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/08.%20Harfi%20Bezan.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -95,7 +95,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/09.%20Khosha%20Be%20Man.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/09.%20Khosha%20Be%20Man.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -106,7 +106,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/10.%20Shabihe%20Yek%20Mordaab.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/10.%20Shabihe%20Yek%20Mordaab.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -117,7 +117,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/11.%20Dar%20Hasrate%20Mah.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/11.%20Dar%20Hasrate%20Mah.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -128,7 +128,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/12.%20Ghatar%20%28Chaartaar%29.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Baran%20Toee%20%5B128%5D/12.%20Ghatar%20%28Chaartaar%29.mp3</location>
 			<creator>Chaartaar [Nex1Music.Com]</creator>
 			<album>Baran Toee [Nex1Music.Com]</album>
 			<annotation>[Nex1Music.Com]</annotation>
@@ -136,6 +136,123 @@
 			<duration>240169</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/01%20Leylache%20%28The%20Little%20Leyla%29.mp3</location>
+			<title>Leylache (The Little Leyla)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>1</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>207389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/02%20Aseman%20Ham%20Zamin%20Khord%20%28Even%20the%20Sky%20Falls%20to%20Ground%29.mp3</location>
+			<title>Aseman Ham Zamin Khord (Even the Sky Falls to Ground)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>2</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>232519</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/03%20Babr%20%28The%20Tiger%29.mp3</location>
+			<title>Babr (The Tiger)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>3</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>225570</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/04%20Jadde%20Miraghsad%20%28The%20Road%27s%20Dancing%29.mp3</location>
+			<title>Jadde Miraghsad (The Road&#39;s Dancing)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>4</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>206161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/05%20Hozori%20Etefaghi%20%28The%20Accidental%20Presence%29.mp3</location>
+			<title>Hozori Etefaghi (The Accidental Presence)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>5</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>272042</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/06%20Hich%20Dar%20Hich%20%28Nothing%20but%20Nothingness%29.mp3</location>
+			<title>Hich Dar Hich (Nothing but Nothingness)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>6</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>211281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/07%20Man%20Dahanam%20%28Me%2C%20the%20very%20Mouth%29.mp3</location>
+			<title>Man Dahanam (Me, the very Mouth)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>7</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>221939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/08%20Ghazal%20Nashod%20%28The%20Unrealized%20Poetry%29.mp3</location>
+			<title>Ghazal Nashod (The Unrealized Poetry)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>8</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>154178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Chaartaar/Chaartaar%20-%20Jaddeh%20Miraghsad/09%20Dariche%20%28The%20Hatch%29.mp3</location>
+			<title>Dariche (The Hatch)</title>
+			<creator>Chaartaar (RadioJavanMusic.Com)</creator>
+			<album>Jaddeh Miraghsad (RadioJavanMusic.Com)</album>
+			<trackNum>9</trackNum>
+			<annotation>(RadioJavanMusic.Com)</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Chaartaar%20%28RadioJavanMusic.Com%29/Jaddeh%20Miraghsad%20%28RadioJavanMusic.Com%29/art.jpg</image>
+			<duration>215147</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -152,5 +269,14 @@
 			<vlc:item tid="9"/>
 			<vlc:item tid="10"/>
 			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
 	</extension>
 </playlist>

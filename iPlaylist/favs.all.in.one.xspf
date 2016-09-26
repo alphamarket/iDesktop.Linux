@@ -3,64 +3,13 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Eshgh.mp3</location>
-			<title>Eshgh</title>
-			<creator>Alireza Azar</creator>
-			<album>Sundries</album>
-			<duration>805992</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Ham%20Marg.mp3</location>
-			<title>Ham Marg</title>
-			<creator>Alireza Azar</creator>
-			<album>Sundries</album>
-			<duration>589104</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Otagh.mp3</location>
-			<title>Otagh</title>
-			<creator>Alireza Azar</creator>
-			<album>Sundries</album>
-			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alireza%20Azar/Sundries/art.jpg</image>
-			<duration>990317</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Tomor%202.mp3</location>
-			<title>Tomor 2</title>
-			<creator>Alireza Azar</creator>
-			<album>Tomor</album>
-			<duration>531210</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Alireza_Azar/Alireza%20Azar%20-%20Tomor%201.mp3</location>
-			<title>Tomor 1</title>
-			<creator>Alireza Azar</creator>
-			<album>Tomor</album>
-			<duration>520302</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
-			</extension>
-		</track>
-		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dariush%20-%20Discography/%C2%A0.iGolchin/01%20-%20Yavareh%20Hamishe%20Momen.mp3</location>
 			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
 			<album>.:: &quot; Bivafa Va Man20™ &quot; ::.</album>
 			<annotation>Exclusive By Bivafa Va Man20</annotation>
-			<duration>374302</duration>
+			<duration>374311</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
+				<vlc:id>0</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -71,7 +20,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/fardis/09360725362%20hadi/art.jpg</image>
 			<duration>291999</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
+				<vlc:id>1</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -84,7 +33,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dariush/Donyaye%20In%20Roozaye%20Man/art.jpg</image>
 			<duration>227791</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
+				<vlc:id>2</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -92,7 +41,7 @@
 			<annotation>                              </annotation>
 			<duration>310473</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
+				<vlc:id>3</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -100,7 +49,7 @@
 			<annotation>                              </annotation>
 			<duration>229441</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
+				<vlc:id>4</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -108,15 +57,15 @@
 			<annotation>                              </annotation>
 			<duration>292605</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
+				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dariush%20-%20Discography/%C2%A0.iGolchin/Dariush%20-%20Rouze%20Avval.MP3</location>
 			<annotation>                              </annotation>
-			<duration>300076</duration>
+			<duration>300069</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
+				<vlc:id>6</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -124,7 +73,7 @@
 			<annotation>                              </annotation>
 			<duration>285265</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
+				<vlc:id>7</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -135,7 +84,7 @@
 			<annotation>(www.NIFGI.com)</annotation>
 			<duration>260120</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
+				<vlc:id>8</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -145,151 +94,454 @@
 			<annotation>[www.AriaPatoGh.ORG]</annotation>
 			<duration>342548</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dariush%20-%20Discography/%C2%A0.iGolchin/Dariush-Shabe-Akhar.mp3</location>
+			<title>Shabe Akhar</title>
+			<creator>Dariush</creator>
+			<album>Shabe Akhar Single</album>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dariush/Shabe%20Akhar%20Single/art.jpg</image>
+			<duration>272904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/12%20Dayan%20-%20Hamin%20Harfa.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>206819</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Alcohol%20%28128%29.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>307678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Bargard%20Be%20In%20Khone%20%28128%29.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>278606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Bebakhshid%20Engari%20Eshtebah%20Shod%20%5B128%5D.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>345296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>14</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Aramam.mp3</location>
-			<annotation>                              </annotation>
-			<duration>298087</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Hale%20Man%20Khoob%20Nist%20%5B128%5D.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>234639</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>15</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Bebegim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e10e6ff116ca9f6fdad232237af61a2f/art.jpg</image>
-			<duration>269928</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Harfe%20Mardom%5B128%5D.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>263217</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>16</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Haydi%20Soyle.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/ebcc76724e6317077212e87a71286113/art.jpg</image>
-			<duration>258984</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Kaghaze%20Khat%20Khati%20%28128%29.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>220122</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>17</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Seni%20Sevmedigim%20Yalan.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/cc9f3a67c7e54cf22f034e6cb5578c05/art.jpg</image>
-			<duration>346284</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Mano%20Yadet%20Miyad%20%5B128%5D.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>251253</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>18</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Yagmurla%20Gelen%20Kadin.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e3b192a3d8f80e53cc8b3b1fa1bfd7eb/art.jpg</image>
-			<duration>273084</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Nameh%20%28128%29.mp3</location>
+			<title>Dayan</title>
+			<creator>Dayan</creator>
+			<album>www.gold-music.ir</album>
+			<trackNum>1172</trackNum>
+			<annotation>www.gold-music.ir</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/www.gold-music.ir/art</image>
+			<duration>323430</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>19</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/02%20-%20Seni%20Sana%20Birakmam.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/80e6247842112f36128eb025edd987cf/art.jpg</image>
-			<duration>265513</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Dayan/Dayan%20-%20Sargijeh%20(320).mp3</location>
+			<title>Sargijeh</title>
+			<creator>Dayan</creator>
+			<album>[ MusicMa.Ir ]</album>
+			<annotation>[ MusicMa.Ir ]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dayan/%5B%20MusicMa.Ir%20%5D/art.jpg</image>
+			<duration>235706</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>20</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Hasret%20Kaldim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/0d75da29e263f98bbb0c072710ec6fdd/art.jpg</image>
-			<duration>298586</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Rafighe%20Ghosse.mp3</location>
+			<annotation>                              </annotation>
+			<duration>223172</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>21</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Sen%20Al%20Canimi.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/088247a6b3fc2462ed81a38f03eee545/art.jpg</image>
-			<duration>285944</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/02%20-%20Chike%20Chike.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>234708</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>22</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Sozum%20Yok%20Artik.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/dcbd45a3e68dcfe99b62774d52c5c4ca/art.jpg</image>
-			<duration>294956</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/02%20Dorit__(%20WwW.ToopMusic.In%20).mp3</location>
+			<title>:.:.: Www.ToopMusic.In :.:.:</title>
+			<creator>Dorit__Www.ToopMusic.In</creator>
+			<album>Info.Toopmusic@gmail.com</album>
+			<annotation>Info.Toopmusic@gmail.com</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Dorit__Www.ToopMusic.In/Info.Toopmusic%40gmail.com/art.jpg</image>
+			<duration>234765</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>23</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/05%20-%20Davaci.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/a747956223146c1104c223a1b3dbd745/art.jpg</image>
-			<duration>258220</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/03%20-%20Nemidooni%20(Rock%20ReMiX).mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>Parsa &quot;0914 349 2797&quot; Bivafa</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>180305</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>24</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/07%20-%20Yorgun.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e1bfdd360341176a439b7a664ab0e50f/art.jpg</image>
-			<duration>340408</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/10%20-%20Khatoon.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>Parsa &quot;0914 349 2797&quot; Bivafa</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Bivafa_Va_Parsa20%40Yahoo.Com/Parsa%20_0914%20349%202797_%20Bivafa/art.jpg</image>
+			<duration>275865</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>25</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Anam.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/7a5091c2a0026426b52f67ddeeb53ffc/art.jpg</image>
-			<duration>303704</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01-Hozur(Faseleh).mp3</location>
+			<title>01-Hozur(Faseleh).mp3</title>
+			<creator>*Stranger Man*</creator>
+			<album>Faseleh</album>
+			<duration>280981</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>26</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Bir%20Ayrilik%20Sarkisi.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/3b33b23f6db7c94ddafde4c0a3197116/art.jpg</image>
-			<duration>310157</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01%20-%20Khiyal.mp3</location>
+			<creator>Roman_Mp3@Yahoo.Com</creator>
+			<album>Bivafa_Va_ParSa20@Yahoo.Com</album>
+			<annotation>Bivafa_Va_Man20 &amp; Roman_Mp3</annotation>
+			<duration>225050</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>27</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Bir%20Kulunu%20Cok%20Sevdim%20-%20Ykilmisim%20Ben-Aci%20%20Gercekler.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/3baf650b90be23dcaa46708711bde926/art.jpg</image>
-			<duration>692929</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01%20-%20Talkh.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>283006</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>28</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Namerd%20Olayim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/5e0ad88bde752265eeebab30e58b845b/art.jpg</image>
-			<duration>283407</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01%20-%20Vabsteh.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>167520</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>29</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/10%20-%20Ak%20Deniz%20Aksamlari.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/4ee32fbedb3b8f9436ff57b54fb34998/art.jpg</image>
-			<duration>248220</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/02%20-%20Royaye%20Vagheyi.mp3</location>
+			<trackNum>2</trackNum>
+			<duration>234715</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>30</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Elaheye%20Naz.MP3</location>
-			<annotation>                              </annotation>
-			<duration>282032</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/03%20Halam%20Avaz%20Mishe.mp3</location>
+			<title>Halam Avaz Mishe</title>
+			<creator>Shadmehr Aghili</creator>
+			<album>Tarafdar</album>
+			<trackNum>3</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Shadmehr%20Aghili/Tarafdar/art.jpg</image>
+			<duration>318123</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>31</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Gasam.MP3</location>
-			<annotation>                              </annotation>
-			<duration>312670</duration>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/03%20Khabe%20Mahal.mp3</location>
+			<creator>Mohammad Najm ( Ganja2Music.Com )</creator>
+			<album>Azat Delkhoram ( Ganja2Music.Com )</album>
+			<annotation>( Ganja2Music.Com )</annotation>
+			<duration>228843</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/01%20Nemidoonam.mp3</location>
+			<title>Ehsan Khaje Amiri - Ye Khatereh Az Farda  ( www.behmusic2.com )</title>
+			<creator>Ehsan Khaje Amiri - Ye Khatereh Az Farda  ( www.behmusic2.com )</creator>
+			<album>Ehsan Khaje Amiri - Ye Khatereh Az Farda  ( www.behmusic2.com )</album>
+			<annotation>Ehsan Khaje Amiri - Ye Khatereh Az Farda  ( www.behmusic2.com )</annotation>
+			<duration>264001</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/06%20-%20Un%20To%20Nisty.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Bivafa Va Man20 &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>241761</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/07-%20Man%20MenhayeTo.mp3</location>
+			<title>Man Menhaye To ( Www.Ahanghaa20.Com )</title>
+			<creator>Hamid Razavi ( Www.Ahanghaa20.Com )</creator>
+			<album>Marg e Ejbari ( Www.Ahanghaa20.Com )</album>
+			<annotation>Www.Ahanghaa20.Com</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Hamid%20Razavi%20%28%20Www.Ahanghaa20.Com%20%29/Marg%20e%20Ejbari%20%28%20Www.Ahanghaa20.Com%20%29/art.jpg</image>
+			<duration>213739</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/07___TRACK.MP3</location>
+			<duration>245397</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/08.%20Vas%20Vase.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>Parsa &quot;0914 349 2797&quot; Bivafa</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Bivafa_Va_Parsa20%40Yahoo.Com/Parsa%20_0914%20349%202797_%20Bivafa/art.jpg</image>
+			<duration>204946</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/12%20-%20Farze%20Mahal.mp3</location>
+			<trackNum>12</trackNum>
+			<duration>227061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Arsalan%20-%20Jadeh.mp3</location>
+			<title>Jadeh</title>
+			<creator>Arsalan</creator>
+			<album>Jadeh Single</album>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Arsalan/Jadeh%20Single/art.jpg</image>
+			<duration>207782</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Ehsan%20Khajehamiri%20-%20Naborde%20Ranj.mp3</location>
+			<title>Naborde Ranj</title>
+			<creator>Ehsan Khajehamiri</creator>
+			<album>Naborde Ranj Single</album>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Ehsan%20Khajehamiri/Naborde%20Ranj%20Single/art.jpg</image>
+			<duration>49239</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Hamid%20Modiri%20-%20Hanooz%20Baroono%20Doost%20Dari%20%5B320%5D.mp3</location>
+			<title>Hanooz Baroono Doost Dari</title>
+			<creator>Hamid Modiri</creator>
+			<album>[wWw.MyFaza2Music.com]</album>
+			<annotation>[wWw.MyFaza2Music.com]</annotation>
+			<duration>285469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Kamran%20Hooman%20-%20Man%20to%20ro%20mikham.mp3</location>
+			<title>Track 7</title>
+			<creator>Unknown Artist</creator>
+			<album>Unknown Album</album>
+			<duration>253369</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Mehran%20Atash%20-%20Ba%20Man%20Ghadam%20Bezan.mp3</location>
+			<title>Ba Man Ghadam Bezan</title>
+			<creator>Mehran Atash</creator>
+			<album>Ba Man Ghadam Bezan Single</album>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mehran%20Atash/Ba%20Man%20Ghadam%20Bezan%20Single/art.jpg</image>
+			<duration>239417</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Mohsen%20Chavoshi%20-%2003%20Khianat.mp3</location>
+			<title>Khianat</title>
+			<creator>Mohsen Chavoshi</creator>
+			<album>Santouri</album>
+			<trackNum>10</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Santouri/art.jpg</image>
+			<duration>217865</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Mohsen%20Chavoshi%20-%2007%20Motoasefam.mp3</location>
+			<title>Motoasefam</title>
+			<creator>Mohsen Chavoshi</creator>
+			<album>Santouri</album>
+			<trackNum>3</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Santouri/art.jpg</image>
+			<duration>242420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Mohsen%20Chavoshi%20-%20Ghalat%20Kardam.mp3</location>
+			<title>Ghalat Kardam</title>
+			<creator>Mohsen Chavoshi</creator>
+			<album>Man Khod Aan Sizdaham</album>
+			<trackNum>1</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Mohsen%20Chavoshi/Man%20Khod%20Aan%20Sizdaham/art.jpg</image>
+			<duration>268777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Sundries/siavash/sundries/Shahram%20Solati%20-%20Deltang.mp3</location>
+			<title>Deltang</title>
+			<creator>Shahram Solati</creator>
+			<album>Hedyeh</album>
+			<trackNum>8</trackNum>
+			<annotation>RadioJavan.com - The Best Persian Music 24/7</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Shahram%20Solati/Hedyeh/art.jpg</image>
+			<duration>311514</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Elaheye%20Naz.MP3</location>
+			<annotation>                              </annotation>
+			<duration>282030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Gasam.MP3</location>
+			<annotation>                              </annotation>
+			<duration>312667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -297,7 +549,7 @@
 			<annotation>                              </annotation>
 			<duration>344744</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>33</vlc:id>
+				<vlc:id>50</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -310,7 +562,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Moein/Parvaz/art.jpg</image>
 			<duration>251277</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>34</vlc:id>
+				<vlc:id>51</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -319,7 +571,7 @@
 			<annotation>Aylar Music</annotation>
 			<duration>299763</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>35</vlc:id>
+				<vlc:id>52</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -327,15 +579,27 @@
 			<annotation>                              </annotation>
 			<duration>324589</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>36</vlc:id>
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Sundies/temprory%20musics/Moin/Halgheh%20E%20Talaei.mp3</location>
+			<title>Halgheh E Talaei [www.Wikiseda.com] </title>
+			<creator>Halgheh E Talaei [www.Wikiseda.com] </creator>
+			<album>Tavalode Eshgh [www.Wikiseda.com] </album>
+			<annotation>::. www.Secret2Music.com .::</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Halgheh%20E%20Talaei%20%5Bwww.Wikiseda.com%5D_/Tavalode%20Eshgh%20%5Bwww.Wikiseda.com%5D_/art.jpg</image>
+			<duration>319461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Aadat.MP3</location>
 			<annotation>                              </annotation>
-			<duration>347089</duration>
+			<duration>346292</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>37</vlc:id>
+				<vlc:id>55</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -346,7 +610,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/09370638134_DIACO/DIACO.67%40GMAIL.COM/art.jpg</image>
 			<duration>185989</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>38</vlc:id>
+				<vlc:id>56</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -354,24 +618,24 @@
 			<annotation>                              </annotation>
 			<duration>272578</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>39</vlc:id>
+				<vlc:id>57</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Baroon.MP3</location>
 			<annotation>                              </annotation>
-			<duration>282062</duration>
+			<duration>282060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>40</vlc:id>
+				<vlc:id>58</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Booseye%20Baad%20.mp3</location>
 			<trackNum>8</trackNum>
 			<annotation>www.2kaf.com</annotation>
-			<duration>213426</duration>
+			<duration>213425</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>41</vlc:id>
+				<vlc:id>59</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -379,7 +643,7 @@
 			<annotation>                              </annotation>
 			<duration>345145</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>42</vlc:id>
+				<vlc:id>60</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -387,7 +651,7 @@
 			<annotation>                              </annotation>
 			<duration>331176</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>43</vlc:id>
+				<vlc:id>61</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -395,7 +659,7 @@
 			<annotation>                              </annotation>
 			<duration>278107</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>44</vlc:id>
+				<vlc:id>62</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -404,7 +668,7 @@
 			<annotation>www.2kaf.com</annotation>
 			<duration>224318</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>45</vlc:id>
+				<vlc:id>63</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -413,7 +677,7 @@
 			<annotation>www.uPersia.org</annotation>
 			<duration>229366</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>46</vlc:id>
+				<vlc:id>64</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -426,7 +690,7 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Siavash%20Ghomayshi/Shekoofehaye%20Kavir/art.jpg</image>
 			<duration>357307</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>47</vlc:id>
+				<vlc:id>65</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -438,14 +702,14 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Siavash%20Ghomayshi/%5BwWw.MyFaza2Music.com%5D/art.jpg</image>
 			<duration>232971</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>48</vlc:id>
+				<vlc:id>66</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20Ghomeyshi%20-%20Kalaafeh%20%5B%20F%20a%20r%20s%20%20K%20i%20d%20s%5D.mp3</location>
 			<duration>221376</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>49</vlc:id>
+				<vlc:id>67</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -453,15 +717,15 @@
 			<annotation>                              </annotation>
 			<duration>281346</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>50</vlc:id>
+				<vlc:id>68</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Magemishe.MP3</location>
 			<annotation>                              </annotation>
-			<duration>282158</duration>
+			<duration>282156</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>51</vlc:id>
+				<vlc:id>69</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -469,14 +733,14 @@
 			<annotation>                              </annotation>
 			<duration>314190</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>52</vlc:id>
+				<vlc:id>70</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Mosafer.MP3</location>
 			<duration>431586</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>53</vlc:id>
+				<vlc:id>71</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -484,7 +748,7 @@
 			<annotation>                              </annotation>
 			<duration>295479</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>54</vlc:id>
+				<vlc:id>72</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -493,15 +757,15 @@
 			<annotation>www.2kaf.com</annotation>
 			<duration>197935</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>55</vlc:id>
+				<vlc:id>73</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Rouze%20Milad.mp3</location>
 			<annotation>                              </annotation>
-			<duration>330616</duration>
+			<duration>330613</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>56</vlc:id>
+				<vlc:id>74</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -511,23 +775,23 @@
 			<annotation>Exclosive Bivafa Va Man20 &amp; Roman Mp3</annotation>
 			<duration>234326</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>57</vlc:id>
+				<vlc:id>75</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Yaade%20Man%20Bash.mp3</location>
 			<trackNum>7</trackNum>
 			<annotation>www.persianhub.com</annotation>
-			<duration>223039</duration>
+			<duration>223059</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>58</vlc:id>
+				<vlc:id>76</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Zendegy.mp3</location>
-			<duration>346569</duration>
+			<duration>346566</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>59</vlc:id>
+				<vlc:id>77</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -537,287 +801,462 @@
 			<image>file:///home/dariush/.cache/vlc/art/arturl/deb8b412a6796cb579e18653230c848c/art.jpg</image>
 			<duration>252051</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>60</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/01%29_Az_Eshghe_To%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>176386</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>61</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/02%29_Bacheha%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>155254</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>62</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/03%29_Choopaan%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>170824</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>63</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/04%29_Daryaaye_Toofaani%20%28Fars-Kids%29.mp3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>225891</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>64</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/05%29_Gom_Kardeh%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>232968</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>65</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/06%29_Har_Doe_Maa%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>95198</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>66</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/07%29_Hekaayat%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>477974</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>67</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/08%29_Oon_Roozaa%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>226463</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>68</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/09%29_Parandehaye_Ghafasi%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>441790</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>69</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Siavash%20Gomeyshi%20-%20DG/Siavash%20Ghomeishi%20-%20Hekayat/Siavash%20Ghomeishi%20-%20Hekayat/10%29_Shekayat%20%28Fars-Kids%29.MP3</location>
-			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
-			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
-			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
-			<duration>486747</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>70</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/siavash-%20Gomaishi%20Albom&#39;s/Hadeseh%20%5B%202001%20%5D/hadeseh.mp3</location>
-			<annotation>                              </annotation>
-			<duration>778927</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>71</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/siavash-%20Gomaishi%20Albom&#39;s/Hadeseh%20%5B%202001%20%5D/hadeseh%202..mp3</location>
-			<annotation>                              </annotation>
-			<duration>724905</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>72</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ahmet%20Kaya/0100.MP3</location>
-			<title>0100.MP3</title>
-			<creator>0100</creator>
-			<duration>279228</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>73</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ahmet%20Kaya/09.MP3</location>
-			<title>09.MP3</title>
-			<creator>09</creator>
-			<duration>244133</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>74</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Funda/04%20-%20Dua.Mp3</location>
-			<title>Dua</title>
-			<creator>Funda Arar</creator>
-			<album>Son Dans</album>
-			<trackNum>4</trackNum>
-			<duration>269409</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>75</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Funda/05.%20Erite%20Erite.mp3</location>
-			<creator>Funda Arar</creator>
-			<album>Askin Masum Cocuklari</album>
-			<annotation>Exclusive By Bivafa Va Man20</annotation>
-			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Funda%20Arar/Askin%20Masum%20Cocuklari/art.jpg</image>
-			<duration>281761</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>76</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Funda/05%20-%20Kirik%20Dusler.Mp3</location>
-			<creator>Funda Arar</creator>
-			<album>Sevda Yanigi</album>
-			<duration>213717</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>77</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Funda/07%20-%20Yangin%20Yeri.Mp3</location>
-			<creator>Funda Arar</creator>
-			<album>Sevda Yanigi</album>
-			<duration>262880</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>78</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Funda/Funda%20Arar%20-%20Hafiza.mp3</location>
-			<title>Hafiza [wWw.TakTaraneh.Com]</title>
-			<creator>Funda Arar ft. Enbe Orkestrasi [wWw.TakTaraneh.Com]</creator>
-			<album>Hafiza[wWw.TakTaraneh.Com]</album>
-			<trackNum>1</trackNum>
-			<annotation>[wWw.TakTaraneh.Com]</annotation>
-			<duration>256058</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Persian/Pop/Siavash%20-%20Discography/Golchin/Siavash%20-%20Ghoroub.MP3</location>
+			<creator>www.FarsKids.Com | www.MYFarsKids.US</creator>
+			<album>www.FarsKids.Com | www.MYFarsKids.US</album>
+			<annotation>www.FarsKids.Com | www.MYFarsKids.US</annotation>
+			<duration>260499</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>79</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Gokhan%20Ozen/Gokhan_Ozen-Budala.mp3</location>
-			<creator>www.enyenimp3indir.net</creator>
-			<duration>238372</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ahmet%20kaya/0100.MP3</location>
+			<title>0100.MP3</title>
+			<creator>0100</creator>
+			<duration>278587</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>80</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Gokhan%20Ozen/Gokhan_Ozen-Ne_Farkeder.mp3</location>
-			<creator>www.enyenimp3indir.net</creator>
-			<duration>314911</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ahmet%20kaya/09.MP3</location>
+			<title>09.MP3</title>
+			<creator>09</creator>
+			<duration>244133</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>81</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Bebegim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e10e6ff116ca9f6fdad232237af61a2f/art.jpg</image>
-			<duration>269928</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/funda/04%20-%20Dua.Mp3</location>
+			<title>Dua</title>
+			<creator>Funda Arar</creator>
+			<album>Son Dans</album>
+			<trackNum>4</trackNum>
+			<duration>269435</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>82</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Haydi%20Soyle.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/ebcc76724e6317077212e87a71286113/art.jpg</image>
-			<duration>258984</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/funda/05.%20Erite%20Erite.mp3</location>
+			<creator>Funda Arar</creator>
+			<album>Askin Masum Cocuklari</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Funda%20Arar/Askin%20Masum%20Cocuklari/art.jpg</image>
+			<duration>281745</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>83</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Seni%20Sevmedigim%20Yalan.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/cc9f3a67c7e54cf22f034e6cb5578c05/art.jpg</image>
-			<duration>346284</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/funda/05%20-%20Kirik%20Dusler.Mp3</location>
+			<creator>Funda Arar</creator>
+			<album>Sevda Yanigi</album>
+			<duration>213715</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>84</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Hasret%20Kaldim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/0d75da29e263f98bbb0c072710ec6fdd/art.jpg</image>
-			<duration>298584</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/funda/07%20-%20Yangin%20Yeri.Mp3</location>
+			<creator>Funda Arar</creator>
+			<album>Sevda Yanigi</album>
+			<duration>262878</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>85</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Sozum%20Yok%20Artik.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/dcbd45a3e68dcfe99b62774d52c5c4ca/art.jpg</image>
-			<duration>294956</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/funda/Funda%20Arar%20-%20Hafiza.mp3</location>
+			<title>Hafiza [wWw.TakTaraneh.Com]</title>
+			<creator>Funda Arar ft. Enbe Orkestrasi [wWw.TakTaraneh.Com]</creator>
+			<album>Hafiza[wWw.TakTaraneh.Com]</album>
+			<trackNum>1</trackNum>
+			<annotation>[wWw.TakTaraneh.Com]</annotation>
+			<duration>256057</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>86</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/07%20-%20Yorgun.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e1bfdd360341176a439b7a664ab0e50f/art.jpg</image>
-			<duration>340406</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/gokhan%20ozen/Gokhan_Ozen-Budala.mp3</location>
+			<creator>www.enyenimp3indir.net</creator>
+			<duration>238372</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>87</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/01%20%282%29.mp3</location>
-			<title>01.mp3</title>
-			<creator>01</creator>
-			<duration>256826</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/gokhan%20ozen/Gokhan_Ozen-Ne_Farkeder.mp3</location>
+			<creator>www.enyenimp3indir.net</creator>
+			<duration>314911</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>88</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/02%20-%20Sen%20Tutukladin%20Beni.mp3</location>
-			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
-			<album>.:: &quot; Vefasiz Sunar &quot; ::.</album>
-			<annotation>Exclusive By Bivafa Va Man20</annotation>
-			<duration>290872</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Aramam.mp3</location>
+			<annotation>                              </annotation>
+			<duration>298088</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>89</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/Adnan%20Senses%20-%20Doldur%20Meyhaneci.mp3</location>
-			<duration>378229</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Bebegim.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/e10e6ff116ca9f6fdad232237af61a2f/art.jpg</image>
+			<duration>269928</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>90</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/Bora%20Duran%20-%20Gul%20Senin%20Tenin%20%5Bpleer.com%5D.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Haydi%20Soyle.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/ebcc76724e6317077212e87a71286113/art.jpg</image>
+			<duration>258983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Seni%20Sevmedigim%20Yalan.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/cc9f3a67c7e54cf22f034e6cb5578c05/art.jpg</image>
+			<duration>346284</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Yagmurla%20Gelen%20Kadin.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/e3b192a3d8f80e53cc8b3b1fa1bfd7eb/art.jpg</image>
+			<duration>273084</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/02%20-%20Seni%20Sana%20Birakmam.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/80e6247842112f36128eb025edd987cf/art.jpg</image>
+			<duration>265513</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Hasret%20Kaldim.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/0d75da29e263f98bbb0c072710ec6fdd/art.jpg</image>
+			<duration>298584</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Sen%20Al%20Canimi.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/088247a6b3fc2462ed81a38f03eee545/art.jpg</image>
+			<duration>285944</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Sozum%20Yok%20Artik.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/dcbd45a3e68dcfe99b62774d52c5c4ca/art.jpg</image>
+			<duration>294956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/05%20-%20Davaci.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/a747956223146c1104c223a1b3dbd745/art.jpg</image>
+			<duration>258220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/07%20-%20Yorgun.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/e1bfdd360341176a439b7a664ab0e50f/art.jpg</image>
+			<duration>340406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Anam.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/7a5091c2a0026426b52f67ddeeb53ffc/art.jpg</image>
+			<duration>303704</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Bir%20Ayrilik%20Sarkisi.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/3b33b23f6db7c94ddafde4c0a3197116/art.jpg</image>
+			<duration>310157</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Bir%20Kulunu%20Cok%20Sevdim%20-%20Ykilmisim%20Ben-Aci%20%20Gercekler.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/3baf650b90be23dcaa46708711bde926/art.jpg</image>
+			<duration>692929</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Namerd%20Olayim.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/5e0ad88bde752265eeebab30e58b845b/art.jpg</image>
+			<duration>283407</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/10%20-%20Ak%20Deniz%20Aksamlari.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/4ee32fbedb3b8f9436ff57b54fb34998/art.jpg</image>
+			<duration>248220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Ay_Aman.mp3</location>
+			<duration>229388</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/mahsun%20kirmizigul%20-%20azar%20azar.mp3</location>
+			<duration>252068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun%20Kirmizigul%20-%20Belalim.mp3</location>
+			<duration>272914</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Belalim.mp3</location>
+			<duration>263972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul__-_Bu_Sevda_Bitmez.mp3</location>
+			<duration>211868</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Dinle.mp3</location>
+			<creator>Mahsun Kirmizigul</creator>
+			<annotation>                              </annotation>
+			<duration>223557</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Donmeyecegim.mp3</location>
+			<duration>247216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Gul_Senin_Tenin.mp3</location>
+			<duration>278355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun%20K%C4%B1rm%C4%B1z%C4%B1g%C3%BCl%20-%20G%C3%BCl%20Senin%20Tenin.mp3</location>
+			<duration>291043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun%20Kirmizigul%20-%20Hayat%20Ne%20Garip.mp3</location>
+			<duration>232450</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Hayat_Ne_Garip.mp3</location>
+			<duration>256076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Kardeshlik.mp3</location>
+			<duration>301484</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Melekler_Aglar.mp3</location>
+			<duration>255779</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun%20Kirmizigul%20-%20sari%20sari.mp3</location>
+			<duration>263014</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Saygimdan.mp3</location>
+			<duration>242468</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Sevdaliyim.mp3</location>
+			<duration>266876</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul__-_Sevdigim.mp3</location>
+			<duration>256176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Vefasiz.mp3</location>
+			<duration>204572</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun_Kirmizigul_-_Yikilmadim.mp3</location>
+			<duration>311012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/mahsun/Mahsun%20K%C4%B1rm%C4%B1z%C4%B1g%C3%BCl%20-%20Yoruldum.mp3</location>
+			<duration>301022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/01%20%282%29.mp3</location>
+			<title>01.mp3</title>
+			<creator>01</creator>
+			<duration>256826</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/02%20-%20Ceza_ByFilozoF.mp3</location>
+			<creator>Dogus</creator>
+			<annotation>ByFilozoF_WwW.aLeMiM.CoM</annotation>
+			<duration>245371</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/02%20-%20Sen%20Tutukladin%20Beni.mp3</location>
+			<creator>Bivafa_Va_Parsa20@Yahoo.Com</creator>
+			<album>.:: &quot; Vefasiz Sunar &quot; ::.</album>
+			<annotation>Exclusive By Bivafa Va Man20</annotation>
+			<duration>290870</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/06.%20Alishan%20-%20Alishan%20-%20Var%20Ya%20%5Bpleer.com%5D.mp3</location>
+			<title>Alishan - Var Ya</title>
+			<creator>06. Alishan</creator>
+			<trackNum>6</trackNum>
+			<duration>273727</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/07.%20Cenk%20Eren%20-%20Kendime%20Kaldim.mp3</location>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/d3972ad3928e04a4637818e091165e62/art.png</image>
+			<duration>278078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/08%20Bugun%20DeGil%20Yarinsin%20Sen.mp3</location>
+			<album>Top Best Turkish Slow</album>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/f61c8db439ab9a0a1ebe6c8aa5346795/art.png</image>
+			<duration>314443</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Adnan%20Senses%20-%20Doldur%20Meyhaneci.mp3</location>
+			<duration>378226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Baris%20Manco%20-%20Unutmaki%20dunya%20fani.mp3</location>
+			<title>Baris Manco-Unutmaki Dunya Fani</title>
+			<creator>www.tac.az</creator>
+			<album>www.tac.az</album>
+			<annotation>www.tac.az</annotation>
+			<duration>282885</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Bengu%20-%20Hilal.mp3</location>
+			<title>[ TurkishMusic.Biz ]</title>
+			<creator>[ TurkishMusic.Biz ]</creator>
+			<album>[ TurkishMusic.Biz ]</album>
+			<annotation>[ TurkishMusic.Biz ]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/%5B%20TurkishMusic.Biz%20%5D/%5B%20TurkishMusic.Biz%20%5D/art.png</image>
+			<duration>220227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Bora%20Duran%20-%20Gul%20Senin%20Tenin%20%5Bpleer.com%5D.mp3</location>
 			<title>Gül Senin Tenin</title>
 			<creator>Bora Duran</creator>
 			<album>Gül Senin Tenin (Single)</album>
@@ -825,97 +1264,180 @@
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Bora%20Duran/G%C3%BCl%20Senin%20Tenin%20%28Single%29/art.jpg</image>
 			<duration>243492</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>91</vlc:id>
+				<vlc:id>134</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/Mahsun%20Kirmizigul%20-%20Ay%20aman.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Ferdi_Tayfur__neyleyim_sen_yoksan_eger_%5Bwww.mp3cool.eu%5D.mp3</location>
+			<duration>315038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/FERHAT_GOCER_-_FERHAT_GOCER_GIDEMEM_%28iPlayer.fm%29.mp3</location>
+			<title>FERHAT GOCER / GIDEMEM</title>
+			<creator>FERHAT GOCER</creator>
+			<album>YOLUN ACIK OLSUN</album>
+			<duration>323090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Gokhan%20Tepe%20-%20Veda%20Makami.mp3</location>
+			<duration>273744</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Gokhan%20Turkmen%20-%20Cati%20Kati%20-%20www.big.az.mp3</location>
+			<title>Gokhan Turkmen - Cati Kati</title>
+			<creator>www.BiG.az</creator>
+			<album>www.BiG.az</album>
+			<annotation>www.BiG.az</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/www.BiG.az/www.BiG.az/art</image>
+			<duration>266480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Gulben%20Ergen%20-%20Bay%20Dogru.mp3</location>
+			<title>Bay Dogru</title>
+			<creator>Gulben Ergen</creator>
+			<album>www.open.az</album>
+			<annotation>m@meDOS&#39;s mp3 Collection</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Gulben%20Ergen/www.open.az/art</image>
+			<duration>249163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Gulben%20Ergen%20-%20Giden%20gunlerim%20oldu.mp3</location>
+			<title>Gulben Ergen-Giden gunlerim oldu</title>
+			<annotation>                              </annotation>
+			<duration>274420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Irem%20Derici%20-%20Kalbimin%20Tek%20Sahibine%20%28Single%29%20%5B320%5D.mp3</location>
+			<title>Kalbimin Tek Sahibine (Single)</title>
+			<creator>Irem Derici</creator>
+			<album>[wWw.MyFaza2Music.Com]</album>
+			<annotation>[wWw.MyFaza2Music.Com]</annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Irem%20Derici/%5BwWw.MyFaza2Music.Com%5D/art.jpg</image>
+			<duration>210048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Mahsun%20Kirmizigul%20-%20Ay%20aman.mp3</location>
 			<annotation>                              </annotation>
 			<duration>231296</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>92</vlc:id>
+				<vlc:id>142</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/Mahsun%20Kirmizigul%20-%20Gul%20Senin%20Tenin%20%5Bpleer.com%5D.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Mahsun%20Kirmizigul%20-%20Gul%20Senin%20Tenin%20%5Bpleer.com%5D.mp3</location>
 			<title>Gül Senin Tenin</title>
 			<creator>Mahsun Kırmızıgül</creator>
 			<album>Dinle</album>
 			<trackNum>4</trackNum>
-			<duration>283804</duration>
+			<duration>283802</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>93</vlc:id>
+				<vlc:id>143</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/murat-boz-buralardan-giderim-www.mod.az_13591176340.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/MG%20-%20Gokhan%20Tepe%20-%20cok%20ozluyorum%20seni.mp3</location>
+			<title>Gokhan Tepe - cok ozluyorum seni - www.saytim.az.mp3</title>
+			<creator>Gokhan Tepe - cok ozluyorum seni - www.saytim.az.mp3</creator>
+			<annotation>Gokhan Tepe - cok ozluyorum seni - www.saytim.az.mp3</annotation>
+			<duration>281528</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/murat-boz-buralardan-giderim-www.mod.az_13591176340.mp3</location>
 			<title>Buralardan Giderim - www.mod.az</title>
 			<creator>Murat Boz</creator>
 			<album>www.mod.az</album>
 			<trackNum>7</trackNum>
 			<annotation>www.mod.az</annotation>
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Murat%20Boz/www.mod.az/art</image>
-			<duration>216977</duration>
+			<duration>216975</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>94</vlc:id>
+				<vlc:id>145</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/Murat%20Kekilli-Bu%20Aksam%20Olurum.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Murat%20Kekilli-Bu%20Aksam%20Olurum.mp3</location>
 			<title>Murat_Kekilli-Bu_Aksam_Olurum_</title>
 			<creator>www.mamedos.tk.</creator>
 			<album>www.mamedos.tk.</album>
 			<annotation>Cêà÷àíà ñ shax-dag.ru</annotation>
-			<duration>320861</duration>
+			<duration>320859</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>95</vlc:id>
+				<vlc:id>146</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/O%C4%9Fuz%20Berkay%20Fidan%20Murat%20Boz%20-%20Olmuyor%202013%20Yepyeni%20Par%C3%A7a.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Mustafa%20Sandal%20-%20Isyankar%20%28Oryantal%20Remix%29%20%20%5Bmp3clan.com%5D.mp3</location>
+			<title>Isyankar (Oryantal Remix)</title>
+			<creator>Mustafa Sandal</creator>
+			<album>Iste</album>
+			<trackNum>6</trackNum>
+			<duration>226226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/O%C4%9Fuz%20Berkay%20Fidan%20Murat%20Boz%20-%20Olmuyor%202013%20Yepyeni%20Par%C3%A7a.mp3</location>
 			<title>Oğuz Berkay Fidan &amp; Murat Boz - Olmuyor 2013 Yepyeni Parça</title>
-			<duration>254356</duration>
+			<duration>254354</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>96</vlc:id>
+				<vlc:id>148</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/sila-_yoruldum_mp3.mid.az.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/sila-_yoruldum_mp3.mid.az.mp3</location>
 			<title>Sila- Yoruldum</title>
 			<creator>mp3.mid.az</creator>
 			<album>wWw.MiD.aZ</album>
 			<annotation>wWw.MiD.aZ</annotation>
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/mp3.mid.az/wWw.MiD.aZ/art</image>
-			<duration>256032</duration>
+			<duration>256031</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>97</vlc:id>
+				<vlc:id>149</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/Soner%20Sarikabadayi%20-%20Kutsal%20Toprak%20-%20www.sun.az.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Soner%20Sarikabadayi%20-%20Kutsal%20Toprak%20-%20www.sun.az.mp3</location>
 			<title>Kutsal Toprak</title>
 			<creator>Soner Sarikabadayi</creator>
 			<album>Kutsal Toprak</album>
 			<trackNum>1</trackNum>
 			<duration>223320</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>98</vlc:id>
+				<vlc:id>150</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Sundries/Gokhan%20Tepe%20-%20Veda%20Makami.mp3</location>
-			<duration>273744</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/sundries/Tarkan.MP3</location>
+			<creator>turkieh</creator>
+			<annotation>                              </annotation>
+			<duration>246316</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>99</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>file:///home/dariush/Desktop/08%20Bugun%20DeGil%20Yarinsin%20Sen.mp3</location>
-			<album>Top Best Turkish Slow</album>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/f61c8db439ab9a0a1ebe6c8aa5346795/art.png</image>
-			<duration>314453</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>100</vlc:id>
+				<vlc:id>151</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -1021,5 +1543,56 @@
 			<vlc:item tid="98"/>
 			<vlc:item tid="99"/>
 			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+			<vlc:item tid="124"/>
+			<vlc:item tid="125"/>
+			<vlc:item tid="126"/>
+			<vlc:item tid="127"/>
+			<vlc:item tid="128"/>
+			<vlc:item tid="129"/>
+			<vlc:item tid="130"/>
+			<vlc:item tid="131"/>
+			<vlc:item tid="132"/>
+			<vlc:item tid="133"/>
+			<vlc:item tid="134"/>
+			<vlc:item tid="135"/>
+			<vlc:item tid="136"/>
+			<vlc:item tid="137"/>
+			<vlc:item tid="138"/>
+			<vlc:item tid="139"/>
+			<vlc:item tid="140"/>
+			<vlc:item tid="141"/>
+			<vlc:item tid="142"/>
+			<vlc:item tid="143"/>
+			<vlc:item tid="144"/>
+			<vlc:item tid="145"/>
+			<vlc:item tid="146"/>
+			<vlc:item tid="147"/>
+			<vlc:item tid="148"/>
+			<vlc:item tid="149"/>
+			<vlc:item tid="150"/>
+			<vlc:item tid="151"/>
 	</extension>
 </playlist>

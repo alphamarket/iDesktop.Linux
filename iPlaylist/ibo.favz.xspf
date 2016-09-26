@@ -3,7 +3,7 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Aramam.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Aramam.mp3</location>
 			<annotation>                              </annotation>
 			<duration>298088</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -11,7 +11,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Bebegim.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Bebegim.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/e10e6ff116ca9f6fdad232237af61a2f/art.jpg</image>
 			<duration>269928</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -19,7 +19,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Haydi%20Soyle.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Haydi%20Soyle.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/ebcc76724e6317077212e87a71286113/art.jpg</image>
 			<duration>258983</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -27,7 +27,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Seni%20Sevmedigim%20Yalan.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Seni%20Sevmedigim%20Yalan.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/cc9f3a67c7e54cf22f034e6cb5578c05/art.jpg</image>
 			<duration>346284</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -35,7 +35,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/01%20-%20Yagmurla%20Gelen%20Kadin.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Yagmurla%20Gelen%20Kadin.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/e3b192a3d8f80e53cc8b3b1fa1bfd7eb/art.jpg</image>
 			<duration>273084</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -43,7 +43,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/02%20-%20Seni%20Sana%20Birakmam.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/02%20-%20Seni%20Sana%20Birakmam.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/80e6247842112f36128eb025edd987cf/art.jpg</image>
 			<duration>265513</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -51,7 +51,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Hasret%20Kaldim.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Hasret%20Kaldim.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/0d75da29e263f98bbb0c072710ec6fdd/art.jpg</image>
 			<duration>298584</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -59,7 +59,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Sen%20Al%20Canimi.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Sen%20Al%20Canimi.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/088247a6b3fc2462ed81a38f03eee545/art.jpg</image>
 			<duration>285944</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -67,7 +67,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/03%20-%20Sozum%20Yok%20Artik.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Sozum%20Yok%20Artik.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/dcbd45a3e68dcfe99b62774d52c5c4ca/art.jpg</image>
 			<duration>294956</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -75,7 +75,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/05%20-%20Davaci.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/05%20-%20Davaci.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/a747956223146c1104c223a1b3dbd745/art.jpg</image>
 			<duration>258220</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -83,7 +83,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/07%20-%20Yorgun.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/07%20-%20Yorgun.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/e1bfdd360341176a439b7a664ab0e50f/art.jpg</image>
 			<duration>340406</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -91,7 +91,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Anam.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Anam.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/7a5091c2a0026426b52f67ddeeb53ffc/art.jpg</image>
 			<duration>303704</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -99,7 +99,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Bir%20Ayrilik%20Sarkisi.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Bir%20Ayrilik%20Sarkisi.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/3b33b23f6db7c94ddafde4c0a3197116/art.jpg</image>
 			<duration>310157</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -107,7 +107,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Bir%20Kulunu%20Cok%20Sevdim%20-%20Ykilmisim%20Ben-Aci%20%20Gercekler.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Bir%20Kulunu%20Cok%20Sevdim%20-%20Ykilmisim%20Ben-Aci%20%20Gercekler.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/3baf650b90be23dcaa46708711bde926/art.jpg</image>
 			<duration>692929</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -115,15 +115,15 @@
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/08%20-%20Namerd%20Olayim.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Namerd%20Olayim.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/5e0ad88bde752265eeebab30e58b845b/art.jpg</image>
-			<duration>283409</duration>
+			<duration>283407</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>14</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/Ibo/10%20-%20Ak%20Deniz%20Aksamlari.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/10%20-%20Ak%20Deniz%20Aksamlari.mp3</location>
 			<image>file:///home/dariush/.cache/vlc/art/arturl/4ee32fbedb3b8f9436ff57b54fb34998/art.jpg</image>
 			<duration>248220</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
