@@ -3,131 +3,224 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Aramam.mp3</location>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Ak%20Deniz%20Aksamlari.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
 			<annotation>                              </annotation>
-			<duration>298088</duration>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/64c9389cceec557bffc71eaf84d7274f/art.jpg</image>
+			<duration>248220</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Bebegim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e10e6ff116ca9f6fdad232237af61a2f/art.jpg</image>
-			<duration>269928</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Allahim%20Neydi%20G%C3%BCnahim.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<duration>270548</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Haydi%20Soyle.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/ebcc76724e6317077212e87a71286113/art.jpg</image>
-			<duration>258983</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Anam.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/fdf537ec7400d4fa83ed98b1476ee45b/art.jpg</image>
+			<duration>303704</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Seni%20Sevmedigim%20Yalan.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/cc9f3a67c7e54cf22f034e6cb5578c05/art.jpg</image>
-			<duration>346284</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Aramam.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<duration>298088</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>3</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/01%20-%20Yagmurla%20Gelen%20Kadin.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e3b192a3d8f80e53cc8b3b1fa1bfd7eb/art.jpg</image>
-			<duration>273084</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Basi%20Belalim.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<duration>232848</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>4</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/02%20-%20Seni%20Sana%20Birakmam.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/80e6247842112f36128eb025edd987cf/art.jpg</image>
-			<duration>265513</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Bebegim.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/5ef0e0e0f29974eb99326ec7afa65ec0/art.jpg</image>
+			<duration>269928</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Hasret%20Kaldim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/0d75da29e263f98bbb0c072710ec6fdd/art.jpg</image>
-			<duration>298584</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Bir%20Ayrilik%20Sarkisi.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/bca7d0660c4760c87ee1da338be2d3a5/art.jpg</image>
+			<duration>310157</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>6</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Sen%20Al%20Canimi.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/088247a6b3fc2462ed81a38f03eee545/art.jpg</image>
-			<duration>285944</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Bir%20Kulunu%20Cok%20Sevdim%20-%20Ykilmisim%20Ben-Aci%20Gercekler.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/5a2eb2ae73f60f60fc5758a3464d1444/art.jpg</image>
+			<duration>692929</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>7</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/03%20-%20Sozum%20Yok%20Artik.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/dcbd45a3e68dcfe99b62774d52c5c4ca/art.jpg</image>
-			<duration>294956</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/BI%20TANEM.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<duration>252664</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>8</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/05%20-%20Davaci.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/a747956223146c1104c223a1b3dbd745/art.jpg</image>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Davaci.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
 			<duration>258220</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>9</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/07%20-%20Yorgun.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/e1bfdd360341176a439b7a664ab0e50f/art.jpg</image>
-			<duration>340406</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Hasret%20Kaldim.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/ca26d4b2ad147a8ca7612c532ef7b641/art.jpg</image>
+			<duration>298584</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Anam.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/7a5091c2a0026426b52f67ddeeb53ffc/art.jpg</image>
-			<duration>303704</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Haydi%20Soyle.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/5168a37289f2d13aae18ac06bd2988ce/art.jpg</image>
+			<duration>258983</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>11</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Bir%20Ayrilik%20Sarkisi.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/3b33b23f6db7c94ddafde4c0a3197116/art.jpg</image>
-			<duration>310157</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Leylim%20Ley.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<duration>343259</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>12</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Bir%20Kulunu%20Cok%20Sevdim%20-%20Ykilmisim%20Ben-Aci%20%20Gercekler.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/3baf650b90be23dcaa46708711bde926/art.jpg</image>
-			<duration>692929</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Namerd%20Olayim.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/a087101c4f18fa7281aba96727431bb0/art.jpg</image>
+			<duration>283407</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>13</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/08%20-%20Namerd%20Olayim.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/5e0ad88bde752265eeebab30e58b845b/art.jpg</image>
-			<duration>283407</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Nankor%20kedi.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<duration>229676</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>14</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/10%20-%20Ak%20Deniz%20Aksamlari.mp3</location>
-			<image>file:///home/dariush/.cache/vlc/art/arturl/4ee32fbedb3b8f9436ff57b54fb34998/art.jpg</image>
-			<duration>248220</duration>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Sen%20Al%20Canimi.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/c9ca4cadea43447caaff9b75f0bc6f65/art.jpg</image>
+			<duration>285944</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Seni%20Sana%20Birakmam.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/bba1b0bb08a6f0940cc00c346d3c1d9f/art.jpg</image>
+			<duration>265513</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Seni%20Sevmedigim%20Yalan.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/a88fe7ecdb8f28c0be13cffc6ffc9701/art.jpg</image>
+			<duration>346284</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Sozum%20Yok%20Artik.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/7d46d88a275d160222f0559253b22b0d/art.jpg</image>
+			<duration>294956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Usta.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<duration>288582</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Yagmurla%20Gelen%20Kadin.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/6df21eeb7f8706091c51f0d940d1f98d/art.jpg</image>
+			<duration>273084</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Yakamoz.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<duration>210029</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Xol/Turkish/Golchin/ibo/Yorgun.mp3</location>
+			<creator>İbrahim Tatlıses</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/7d52d85dbf25786a755b50a7279e590d/art.jpg</image>
+			<duration>340406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -148,5 +241,12 @@
 			<vlc:item tid="13"/>
 			<vlc:item tid="14"/>
 			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
 	</extension>
 </playlist>

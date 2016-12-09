@@ -17,7 +17,6 @@
 			<title>2 dar 1</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
-			<annotation>                              </annotation>
 			<duration>975523</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
@@ -48,7 +47,6 @@
 			<title>Madian</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
-			<annotation>                            </annotation>
 			<duration>258620</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>4</vlc:id>
@@ -59,7 +57,6 @@
 			<title>Otagh</title>
 			<creator>Alireza Azar</creator>
 			<album>Sundries</album>
-			<annotation>                              </annotation>
 			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alireza%20Azar/Sundries/art.jpg</image>
 			<duration>990310</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
@@ -83,7 +80,6 @@
 			<title>Tomor 0</title>
 			<creator>Alireza Azar</creator>
 			<album>Tomor</album>
-			<annotation>                              </annotation>
 			<duration>658609</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>7</vlc:id>
@@ -94,7 +90,6 @@
 			<title>Tomor 1</title>
 			<creator>Alireza Azar</creator>
 			<album>Tomor</album>
-			<annotation>                            </annotation>
 			<duration>520302</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>8</vlc:id>
@@ -105,7 +100,6 @@
 			<title>Tomor 2</title>
 			<creator>Alireza Azar</creator>
 			<album>Tomor</album>
-			<annotation>                              </annotation>
 			<duration>531210</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>9</vlc:id>
@@ -122,6 +116,29 @@
 				<vlc:id>10</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/selfies/Alireza%20Azar%20-%20Lahad.mp3</location>
+			<title>Lahad</title>
+			<creator>Alireza Azar</creator>
+			<album>Sundries</album>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/artistalbum/Alireza%20Azar/Sundries/art.jpg</image>
+			<duration>1103043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/dariush/Files/Musics/Lights/Deklame/Alireza_Azar/selfies/Alireza%20Azar_Milad%20Babaei%20-%20Na%20Nahs.mp3</location>
+			<title>Na Nahs</title>
+			<creator>Alireza Azar</creator>
+			<annotation>                              </annotation>
+			<image>file:///home/dariush/.cache/vlc/art/arturl/e0f08fc1308bdd9daee0fceeb7cfa259/art.jpg</image>
+			<duration>874821</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 			<vlc:item tid="0"/>
@@ -135,5 +152,7 @@
 			<vlc:item tid="8"/>
 			<vlc:item tid="9"/>
 			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
 	</extension>
 </playlist>
